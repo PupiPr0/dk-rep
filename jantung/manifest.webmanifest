@@ -3,9 +3,11 @@
     "name": "DKon",
     "theme_color": "#000000",
     "short_name": "DKon",
+    "description": "Dalam Kontak - Jejaring sosial",
     "start_url": "https:\/\/dkon.app\/?utm_source=web_app&utm_medium=web&utm_campaign=wap&utm_content=webapp&utm_term=main+page#pwa\/",
     "background_color": "#000000",
-    "display": "fullscreen",
+    "theme_color": "#2f3d58",
+    "display": "standalone",
     "icons": [
         {
             "src": "https:\/\/res.dkon.app\/img\/favicon.png",
