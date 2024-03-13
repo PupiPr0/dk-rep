@@ -7,6 +7,7 @@
     "start_url": "https:\/\/dkon.app\/?utm_source=web_app&utm_medium=web&utm_campaign=wap&utm_content=webapp&utm_term=main+page#pwa\/",
     "background_color": "#000000",
     "theme_color": "#2f3d58",
+    "orientation": "any",
     "display": "standalone",
     "icons": [
         {
