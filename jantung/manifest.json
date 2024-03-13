@@ -1,1 +1,123 @@
-
+{
+    "scope": "https:\/\/dkon.app\/",
+    "name": "DKon",
+    "theme_color": "#000000",
+    "short_name": "DKon",
+    "description": "Dalam Kontak - Jejaring sosial",
+    "start_url": "https:\/\/dkon.app\/?utm_source=web_app&utm_medium=web&utm_campaign=wap&utm_content=webapp&utm_term=main+page#pwa\/",
+    "background_color": "#000000",
+    "theme_color": "#2f3d58",
+    "lang": "en-GB",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "36x36",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "48x48",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "72x72",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "96x96",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "144x144",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "192x192",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "256x256",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "384x384",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "36x36",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "48x48",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "72x72",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "96x96",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "144x144",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "256x256",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "384x384",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/res.dkon.app\/img\/favicon.png",
+            "type": "image\/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
