@@ -1,0 +1,189 @@
+  nav.fixed-top {
+    background: #f8a842;
+
+    }
+
+    .serviceBox .service-icon {
+    border: 4px solid #f8a842;
+}
+.serviceBox .service-icon i{
+
+    color:#f8a842;
+}
+.serviceBox:hover .service-icon{
+    background: #f8a842;
+    border-color:#f8a842;
+}
+.pattern-img{
+  background-color: #f8a842;
+}
+.banner-default {
+    background-color: rgba(248, 168, 66, .8);
+}
+.faq-item {
+    border-bottom: 5px solid #f8a842;
+
+}
+.faq-qus h4 {
+    color: #f8a842;
+}
+.faq-qus i {
+    color: #f8a842;
+}
+.faq-btn a {
+    background: #f8a842;
+    background: #f8a842;
+}
+.clients-com {
+    border-top: 4px solid #f8a842;
+}
+.clients-com p span {
+    color: #f8a842;
+}
+.clients-com:before {
+
+    color: #f8a842;
+}
+.clients-com a {
+    color: #f8a842;
+}
+.pricing-title h3 {
+
+    color: #f8a842;
+}
+
+.pricing-title h4 {
+    background: #f8a842;
+}
+.pricing-btn {
+    background: #f8a842;
+
+}
+.pricing-title ul li i {
+    font-size: 16px;
+    color: #f8a842;
+}
+
+.counter-img i {
+    background: #f8a842;
+}
+
+
+h2.counter {
+    color: #f8a842;
+}
+
+.counter-text h5 {
+    border: 2px solid #f8a842;
+    color: #f8a842;
+
+}
+button#contact-submit {
+    background: #f8a842;
+}
+button#contact-submit:hover {
+    color: #f8a842;
+}
+
+      a.blog-btn {
+      background:#f8a842;
+      }
+      a.blog-btn:hover {
+      color:#f8a842;
+      }
+      ul.list-unstyled.list-inline.post-metadata li {
+      color: #f8a842;
+      }
+
+      form.subscribe-form-section input {
+    border: 1px solid #f8a842;
+}
+
+button.btn.subs-btn {
+    background: #f8a842;
+}
+footer {
+    background: #a5702b;
+}
+.owl-dot.active {
+    background: #0a8ba0;
+}
+
+@media screen and (max-width: 991px) {
+.navbar-collapse {
+text-align: center;
+background:  #0a8ba0;
+}
+
+}
+a.download-btn {
+    background: #a47232;
+}
+a.download-btn:hover {
+    background: #8b622d;
+}
+.has-patterns{
+  background: url(../images/pattern-6.png);
+  background-color:   #f8a842;
+    background-repeat: repeat;
+    background-position: left top;
+}
+.pattern-img {
+    background: url(../images/pattern-6.png);
+    background-color:  #f8a842;
+}
+section.page-title:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(248, 168, 66, .8);
+}
+.blog-sidebar .widget > h3:after {
+    background-color: #f8a842;
+}
+.blog-sidebar .search-widget button:hover {
+    color:  #f8a842;
+}
+.blog-sidebar .categories-widget ul li a:hover {
+    color: #f8a842;
+}
+.blog-sidebar .recent-posts-widget h4 a:hover {
+    color: #f8a842;
+}
+.blog-sidebar .recent-posts-widget .date {
+    font-size: 14px;
+    color:#f8a842;
+}
+.blog-sidebar .tags-widget div > a:hover {
+    background-color: #f8a842;
+    color: #fff;
+    border-color: #f8a842;
+}
+a.page-link.active {
+    background: #f8a842;
+    color: #fbfbfb;
+}
+.pagination-div .page-link {
+
+    color: #f8a842;
+    border: 1px solid #f8a842;
+}
+
+.blog-details-post .entry-meta li i {
+    color: #f8a842;
+}
+.blog-details-post .entry-body blockquote {
+    border-color: #f8a842;
+}
+.blog-details-post .comments-area .comment-author-metadata img {
+    border: 3px solid #f8a842;
+
+}
+.blog-details-post .tag-social-share .tag a:hover {
+    background-color: #f8a842;
+    border-color: #f8a842;
+    color: #fff;
+}

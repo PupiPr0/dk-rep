@@ -1,0 +1,36 @@
+.arrow {
+    position: absolute;
+    bottom: 20vh;
+    width: 100vw;
+    left: 0;
+    z-index: 11;
+    text-align: center;
+    padding-left: 0px;
+}
+.banner-div {
+    top: 50%;
+    left: 0px;
+    position: absolute;
+    color: #fff;
+    z-index: 11;
+    text-align: center;
+    width: 100%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.page-text {
+    text-align: center;
+    margin-top: 25px;
+}
+.page-text h2 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+a.page-div:hover {
+    -webkit-box-shadow: 0 0 40px rgba(0,0,0,.3);
+    box-shadow: 0 0 40px rgba(0,0,0,.3);
+}

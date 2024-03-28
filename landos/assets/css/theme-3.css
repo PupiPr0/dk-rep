@@ -1,0 +1,188 @@
+  nav.fixed-top {
+    background: #7CB75E;
+
+    }
+
+    .serviceBox .service-icon {
+    border: 4px solid #7CB75E;
+}
+.serviceBox .service-icon i{
+
+    color:#7CB75E;
+}
+.serviceBox:hover .service-icon{
+    background: #7CB75E;
+    border-color:#7CB75E;
+}
+.pattern-img{
+  background-color: #7CB75E;
+}
+.banner-default {
+   background-color: rgba(124, 183, 94, 0.8);
+}
+.faq-item {
+    border-bottom: 5px solid #7CB75E;
+
+}
+.faq-qus h4 {
+    color: #7CB75E;
+}
+.faq-qus i {
+    color: #7CB75E;
+}
+.faq-btn a {
+    background: #7CB75E;
+    background: #7CB75E;
+}
+.clients-com {
+    border-top: 4px solid #7CB75E;
+}
+.clients-com p span {
+    color: #7CB75E;
+}
+.clients-com:before {
+
+    color: #7CB75E;
+}
+.clients-com a {
+    color: #7CB75E;
+}
+.pricing-title h3 {
+
+    color: #7CB75E;
+}
+
+.pricing-title h4 {
+    background: #7CB75E;
+}
+.pricing-btn {
+    background: #7CB75E;
+
+}
+.pricing-title ul li i {
+    font-size: 16px;
+    color: #7CB75E;
+}
+
+.counter-img i {
+    background: #7CB75E;
+}
+
+
+h2.counter {
+    color: #7CB75E;
+}
+
+.counter-text h5 {
+    border: 2px solid #7CB75E;
+    color: #7CB75E;
+
+}
+button#contact-submit {
+    background: #7CB75E;
+}
+button#contact-submit:hover {
+    color: #7CB75E;
+}
+
+      a.blog-btn {
+      background:#7CB75E;
+      }
+      a.blog-btn:hover {
+      color:#7CB75E;
+      }
+      ul.list-unstyled.list-inline.post-metadata li {
+      color: #7CB75E;
+      }
+
+      form.subscribe-form-section input {
+    border: 1px solid #7CB75E;
+}
+
+button.btn.subs-btn {
+    background: #7CB75E;
+}
+footer {
+    background: #18696b;
+}
+.owl-dot.active {
+    background: #0a8ba0;
+}
+a.download-btn {
+    background: #527440;
+}
+a.download-btn:hover {
+    background: #38502b;
+}
+@media screen and (max-width: 991px) {
+.navbar-collapse {
+text-align: center;
+background:  #7CB75E;
+}
+
+}
+.has-patterns{
+  background: url(../images/pattern-3.png);
+  background-color: #7CB75E;
+    background-repeat: repeat;
+    background-position: left top;
+}
+.pattern-img {
+    background: url(../images/pattern-3.png);
+    background-color: #7CB75E;
+}
+section.page-title:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+   background-color: rgba(124, 183, 94, 0.8);
+}
+.blog-sidebar .widget > h3:after {
+    background-color: #7CB75E;
+}
+.blog-sidebar .search-widget button:hover {
+    color:  #7CB75E;
+}
+.blog-sidebar .categories-widget ul li a:hover {
+    color: #7CB75E;
+}
+.blog-sidebar .recent-posts-widget h4 a:hover {
+    color: #7CB75E;
+}
+.blog-sidebar .recent-posts-widget .date {
+    font-size: 14px;
+    color:#7CB75E;
+}
+.blog-sidebar .tags-widget div > a:hover {
+    background-color: #7CB75E;
+    color: #fff;
+    border-color: #7CB75E;
+}
+a.page-link.active {
+    background: #7CB75E;
+    color: #fbfbfb;
+}
+.pagination-div .page-link {
+
+    color: #7CB75E;
+    border: 1px solid #7CB75E;
+}
+
+.blog-details-post .entry-meta li i {
+    color: #7CB75E;
+}
+.blog-details-post .entry-body blockquote {
+    border-color: #7CB75E;
+}
+.blog-details-post .comments-area .comment-author-metadata img {
+    border: 3px solid #7CB75E;
+
+}
+.blog-details-post .tag-social-share .tag a:hover {
+    background-color: #7CB75E;
+    border-color: #7CB75E;
+    color: #fff;
+}
