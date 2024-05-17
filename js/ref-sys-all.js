@@ -15,7 +15,7 @@ switch (dkonref) {
   default:
     console.log('Result.'+dkonref);
     
-    document.cookie = "referrer="+dkonref+";max-age=2629743";
+    document.cookie = "referrer="+dkonref+";max-age=2629743;path=/";
    // document.getElementById("referrer").value = qstring;
 }
 
