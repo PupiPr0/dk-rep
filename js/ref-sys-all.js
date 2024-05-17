@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
    // let results = document.cookie.match(/referrer=(.+?)(;|$)/);
   
   
-switch (qstring) {
+switch (dkonref) {
   case null:
    // console.log('emty!');
     
