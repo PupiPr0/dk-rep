@@ -12,7 +12,8 @@ $(document).ready(() => {
 const updatePlayercount = (ip, port) => {
     $.get(`https://dkon.app/api/v5.7/method/dkon.stats.posts?id=${ip}&${port}`, (result) => {
         if (result.hasOwnProperty('posts')) {
-           $(".dkonstats").html(parseFloat(result.posts).toFixed(0)); // 0 ->2
+        //   $(".dkonstats").html(parseFloat(result.posts).toFixed(0)); // 0 ->2
+           $(".dkonstats").html(result.posts);  
         } else {
            $(".dkonstatss").html("Server isn't online!");
   
