@@ -15,7 +15,7 @@
 
     const widgetName = script.getAttribute('dkon-widget');
     if (widgetName) {
-        const iframe = createIframe(`https://dkon.app/dev/generate.widget.community?group=${widgetName}`, '350px', '400px', '0px #ffffff none');
+        const iframe = createIframe(`https://dkon.app/dev/generate.widget.community?group=${widgetName}`, '350px', '366px', '0px #ffffff none');
         script.parentNode.insertBefore(iframe, script);
     }
 
