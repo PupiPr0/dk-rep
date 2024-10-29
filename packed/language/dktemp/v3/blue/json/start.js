@@ -38,7 +38,7 @@ function loadLanguage(lang) {
                  userLang.startsWith('fi') ? 'fi' :  
                  userLang.startsWith('az') ? 'az' : 
                  userLang.startsWith('tk') ? 'tk' :
-
+                 userLang.startsWith('nl') ? 'nl' :
             
                  'en';  
     loadLanguage(lang);
