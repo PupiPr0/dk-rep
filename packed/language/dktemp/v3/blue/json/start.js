@@ -39,6 +39,13 @@ function loadLanguage(lang) {
                  userLang.startsWith('az') ? 'az' : 
                  userLang.startsWith('tk') ? 'tk' :
                  userLang.startsWith('nl') ? 'nl' :
+                 userLang.startsWith('it') ? 'it' :  
+                 userLang.startsWith('sv') ? 'sv' :  
+                 userLang.startsWith('da') ? 'da' :  
+                 userLang.startsWith('no') ? 'no' :  
+                 userLang.startsWith('cs') ? 'cs' :  
+                 userLang.startsWith('sk') ? 'sk' :  
+                 userLang.startsWith('ro') ? 'ro' : 
             
                  'en';  
     loadLanguage(lang);
