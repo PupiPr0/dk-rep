@@ -15,6 +15,7 @@ function loadLanguage(lang) {
     }
     const userLang = navigator.language || navigator.userLanguage; 
     const lang = userLang.startsWith('la') ? 'la' :
+                 userLang.startsWith('pt') ? 'pt' :
                  userLang.startsWith('el') ? 'el' :
                  userLang.startsWith('ru') ? 'ru' :
                  userLang.startsWith('pl') ? 'pl' :
