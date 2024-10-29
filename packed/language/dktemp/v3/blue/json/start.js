@@ -26,6 +26,9 @@ function loadLanguage(lang) {
                  userLang.startsWith('fr') ? 'fr' :
                  userLang.startsWith('zh') ? 'zh' :
                  userLang.startsWith('ja') ? 'ja' :
+                 userLang.startsWith('bn') ? 'bn' : 
+                 userLang.startsWith('he') ? 'he' : 
+                 userLang.startsWith('be') ? 'be' :  
             
                  'en';  
     loadLanguage(lang);
