@@ -46,6 +46,8 @@ function loadLanguage(lang) {
                  userLang.startsWith('cs') ? 'cs' :  
                  userLang.startsWith('sk') ? 'sk' :  
                  userLang.startsWith('ro') ? 'ro' : 
+                 userLang.startsWith('ca') ? 'ca' :  
+                 userLang.startsWith('tl') ? 'tl' :  
             
                  'en';  
     loadLanguage(lang);
