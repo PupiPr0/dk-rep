@@ -35,6 +35,8 @@ function loadLanguage(lang) {
                  userLang.startsWith('tr') ? 'tr' :  
                  userLang.startsWith('es') ? 'es' : 
                  userLang.startsWith('fi') ? 'fi' :  
+                 userLang.startsWith('az') ? 'az' : 
+                 userLang.startsWith('tk') ? 'tk' :
 
             
                  'en';  
