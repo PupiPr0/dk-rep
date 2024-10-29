@@ -1,5 +1,5 @@
 function loadLanguage(lang) {
-        fetch(`http://res.dkon.app/packed/language/dktemp/v3/blue/json/${lang}.json`)  
+        fetch(`https://res.dkon.app/packed/language/dktemp/v3/blue/json/${lang}.json`)  
             .then(response => response.json())
             .then(data => {
                 document.getElementById('page-title').innerText = data.title;
