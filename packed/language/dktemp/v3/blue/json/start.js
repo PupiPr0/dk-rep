@@ -14,7 +14,9 @@ function loadLanguage(lang) {
             .catch(error => console.error('Error loading language file:', error));
     }
     const userLang = navigator.language || navigator.userLanguage; 
-    const lang = userLang.startsWith('ru') ? 'ru' :
+    const lang = userLang.startsWith('la') ? 'la' :
+                 userLang.startsWith('el') ? 'el' :
+                 userLang.startsWith('ru') ? 'ru' :
                  userLang.startsWith('pl') ? 'pl' :
                  userLang.startsWith('id') ? 'id' :
                  userLang.startsWith('uk') ? 'uk' :
