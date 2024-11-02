@@ -24,5 +24,5 @@ document.addEventListener("DOMContentLoaded", function() {
                 document.querySelector('.main p:nth-of-type(2)').innerHTML = data.p2;
                 document.querySelector('.main p:nth-of-type(3)').innerHTML = data.p3;
             })
-            .catch(error => console.error('Ошибка загрузки файла языка:', error));
+            .catch(error => console.error('Error download file languages:', error));
     });
