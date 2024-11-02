@@ -1,16 +1,23 @@
 document.addEventListener("DOMContentLoaded", function() {
-        const baseUrl = 'https://res.dkon.app/packed/language/dosti/api/lang/';
+       const baseUrl = 'https://res.dkon.app/packed/language/dosti/api/lang/';
         
-        const userLang = navigator.language || navigator.userLanguage; 
-        let langFile = `${baseUrl}hi.json`; 
+const userLang = navigator.language || navigator.userLanguage; 
+let langFile = `${baseUrl}hi.json`; 
 
-        if (userLang.startsWith('ru')) {
-            langFile = `${baseUrl}ru.json`; 
-        } else if (userLang.startsWith('pt-BR')) {
-            langFile = `${baseUrl}br.json`; 
-        } else if (userLang.startsWith('en')) {
-            langFile = `${baseUrl}ng.json`; 
-        }
+if (userLang.startsWith('ru')) {
+    langFile = `${baseUrl}ru.json`; 
+} else if (userLang.startsWith('pt-BR')) {
+    langFile = `${baseUrl}br.json`; 
+} else if (userLang.startsWith('en')) {
+    langFile = `${baseUrl}ng.json`; 
+} else if (userLang.startsWith('ro')) { 
+    langFile = `${baseUrl}ro.json`; 
+} else if (userLang.startsWith('id')) { 
+    langFile = `${baseUrl}id.json`; 
+} else if (userLang.startsWith('es')) { 
+    langFile = `${baseUrl}es.json`; 
+}
+
         fetch(langFile)
             .then(response => response.json())
             .then(data => {
