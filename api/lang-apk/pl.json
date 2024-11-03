@@ -1,0 +1,53 @@
+{
+    "title": "Pobierz Dalam Kontak",
+    "header": {
+        "h1": "Pobierz Dalam Kontak i pozostań w kontakcie!",
+        "p": "Wszystko, czego potrzebujesz do komunikacji i biznesu w jednym miejscu."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Przyjazny interfejs",
+            "p": "Lekki i intuicyjny design. Wybierz między motywem dziennym a nocnym!"
+        },
+        "quickResponse": {
+            "h2": "Szybka reakcja",
+            "p": "Powiadomienia o nowych wiadomościach przychodzą natychmiast na Twój telefon — zawsze będziesz w kontakcie."
+        },
+        "newsAndEvents": {
+            "h2": "Aktualności i wydarzenia",
+            "p": "Bądź na bieżąco z najnowszymi wiadomościami i wydarzeniami od przyjaciół i bliskich!"
+        },
+        "communities": {
+            "h2": "Społeczności",
+            "p": "Znajdź i dołącz do interesujących społeczności związanych z Twoimi hobby i zainteresowaniami."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Dziel się zdjęciami i filmami z przyjaciółmi."
+        },
+        "messaging": {
+            "h2": "Wiadomości",
+            "p": "Prosty i niezawodny sposób na wysyłanie wiadomości za darmo!"
+        },
+        "expressEmotions": {
+            "h2": "Wyrażaj emocje",
+            "p": "Czasami słowa to za mało. Użyj naklejek."
+        },
+        "growYourBusiness": {
+            "h2": "Rozwijaj swój biznes",
+            "p": "Dzięki Free Market możesz dotrzeć do klientów na całym świecie."
+        },
+        "synchronization": {
+            "h2": "Synchronizacja",
+            "p": "Dostęp z wielu urządzeń jednocześnie."
+        }
+    },
+    "cta": {
+        "h2": "Pobierz DKontak już teraz!",
+        "button": "Pobierz na Androida"
+    },
+    "footer": {
+        "privacy": "Polityka prywatności",
+        "support": "Wsparcie"
+    }
+}
