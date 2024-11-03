@@ -1,0 +1,64 @@
+{
+    "title": "下载 Dalam Kontak",
+    "header": {
+        "h1": "下载 Dalam Kontak，保持联系！",
+        "p": "您所需的所有沟通和商业工具都在一个地方。"
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "用户友好的界面",
+            "p": "轻便且直观的设计。可以在白天和夜间主题之间选择！"
+        },
+        "quickResponse": {
+            "h2": "快速响应",
+            "p": "新消息的通知会立即发送到您的手机——您将始终保持联系。"
+        },
+        "newsAndEvents": {
+            "h2": "新闻和事件",
+            "p": "随时了解朋友和家人的最新新闻和事件！"
+        },
+        "communities": {
+            "h2": "社区",
+            "p": "找到并加入与您的爱好和兴趣相关的有趣社区。分享经验，交流想法，找到志同道合的人。您可以轻松创建自己的社区。"
+        },
+        "media": {
+            "h2": "媒体",
+            "p": "与朋友分享照片和视频。将您的照片和视频上传到图库！"
+        },
+        "messaging": {
+            "h2": "消息",
+            "p": "一种简单可靠的方式，免费发送消息并在世界任何地方保持联系！"
+        },
+        "expressEmotions": {
+            "h2": "表达情感",
+            "p": "有时，言语并不足够。使用贴纸，通过“状态”功能分享您的日常感受。"
+        },
+        "growYourBusiness": {
+            "h2": "发展您的业务",
+            "p": "通过免费的市场，您可以接触到全球客户并扩展您的业务流程。展示产品和服务，增加销售并建立客户关系！"
+        },
+        "synchronization": {
+            "h2": "同步",
+            "p": "可以同时从多个设备访问。现在您可以轻松在智能手机、平板电脑和计算机之间切换。您的所有消息、通知和设置都实时同步，随时随地保持联系。"
+        }
+    },
+    "cta": {
+        "h2": "立即下载DKontak！",
+        "button": "下载Android版"
+    },
+    "footer": {
+        "privacy": "隐私政策",
+        "support": "支持"
+    },
+    "screenshots": {
+        "title": "应用程序截图",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
