@@ -1,0 +1,64 @@
+{
+    "title": "Baixar Dalam Kontak",
+    "header": {
+        "h1": "Baixe o Dalam Kontak e mantenha-se conectado!",
+        "p": "Tudo o que você precisa para comunicação e negócios em um só lugar."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Interface amigável",
+            "p": "Design leve e intuitivo. Escolha entre temas claro e escuro!"
+        },
+        "quickResponse": {
+            "h2": "Resposta rápida",
+            "p": "Notificações de novas mensagens chegam instantaneamente ao seu telefone - você estará sempre conectado."
+        },
+        "newsAndEvents": {
+            "h2": "Notícias e eventos",
+            "p": "Fique por dentro das últimas notícias e eventos de amigos e familiares!"
+        },
+        "communities": {
+            "h2": "Comunidades",
+            "p": "Encontre e junte-se a comunidades interessantes com base em seus hobbies e interesses. Compartilhe experiências, troque ideias e encontre pessoas com interesses semelhantes. Você pode facilmente criar suas próprias comunidades."
+        },
+        "media": {
+            "h2": "Mídia",
+            "p": "Compartilhe fotos e vídeos com amigos. Faça upload de suas fotos e vídeos na Galeria!"
+        },
+        "messaging": {
+            "h2": "Mensagens",
+            "p": "Uma maneira simples e confiável de enviar mensagens gratuitamente e permanecer conectado em qualquer lugar do mundo!"
+        },
+        "expressEmotions": {
+            "h2": "Expresse emoções",
+            "p": "Às vezes, palavras não são suficientes. Use adesivos, compartilhe suas impressões diárias com a função 'Status'."
+        },
+        "growYourBusiness": {
+            "h2": "Desenvolva seu negócio",
+            "p": "Com o mercado gratuito, você pode alcançar clientes em todo o mundo e escalar seus processos de negócios. Apresente produtos e serviços, aumente as vendas e construa relacionamentos com os clientes!"
+        },
+        "synchronization": {
+            "h2": "Sincronização",
+            "p": "Acesso de vários dispositivos ao mesmo tempo. Agora você pode alternar facilmente entre seu smartphone, tablet e computador. Todas as suas mensagens, notificações e configurações são sincronizadas em tempo real, mantenha-se conectado a qualquer hora e em qualquer lugar."
+        }
+    },
+    "cta": {
+        "h2": "Baixe o DKontak agora mesmo!",
+        "button": "Baixar para Android"
+    },
+    "footer": {
+        "privacy": "Política de privacidade",
+        "support": "Suporte"
+    },
+    "screenshots": {
+        "title": "Capturas de tela do aplicativo",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
