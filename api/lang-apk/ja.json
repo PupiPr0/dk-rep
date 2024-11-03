@@ -1,0 +1,64 @@
+{
+    "title": "Dalam Kontakをダウンロード",
+    "header": {
+        "h1": "Dalam Kontakをダウンロードして、つながりを保ちましょう！",
+        "p": "コミュニケーションとビジネスに必要なすべてが一つの場所に。"
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "使いやすいインターフェース",
+            "p": "軽量で直感的なデザイン。昼と夜のテーマから選択できます！"
+        },
+        "quickResponse": {
+            "h2": "迅速な反応",
+            "p": "新しいメッセージの通知が瞬時にあなたの電話に届きます - いつでもつながっています。"
+        },
+        "newsAndEvents": {
+            "h2": "ニュースとイベント",
+            "p": "友達や家族からの最新ニュースやイベントを把握しましょう！"
+        },
+        "communities": {
+            "h2": "コミュニティ",
+            "p": "趣味や興味に基づいて興味深いコミュニティを見つけて参加しましょう。経験を共有し、アイデアを交換し、同じ考えを持つ人々を見つけましょう。自分自身のコミュニティを簡単に作成できます。"
+        },
+        "media": {
+            "h2": "メディア",
+            "p": "友達と写真や動画を共有しましょう。ギャラリーに自分の写真や動画をアップロードしてください！"
+        },
+        "messaging": {
+            "h2": "メッセージ",
+            "p": "無料でメッセージを送信し、世界中のどこにいてもつながり続けるためのシンプルで信頼性の高い方法！"
+        },
+        "expressEmotions": {
+            "h2": "感情を表現",
+            "p": "時には言葉だけでは不十分です。ステッカーを使い、'ステータス'機能を使って日常の印象を共有しましょう。"
+        },
+        "growYourBusiness": {
+            "h2": "ビジネスを成長させる",
+            "p": "無料のマーケットプレイスを利用して、世界中の顧客にリーチし、ビジネスプロセスをスケールアップできます。製品やサービスを紹介し、売上を増やし、顧客との関係を築きましょう！"
+        },
+        "synchronization": {
+            "h2": "同期",
+            "p": "複数のデバイスから同時にアクセスできます。スマートフォン、タブレット、コンピュータの間で簡単に切り替えられます。すべてのメッセージ、通知、設定がリアルタイムで同期され、いつでもどこでもつながり続けることができます。"
+        }
+    },
+    "cta": {
+        "h2": "今すぐDKontakをダウンロード！",
+        "button": "Android用にダウンロード"
+    },
+    "footer": {
+        "privacy": "プライバシーポリシー",
+        "support": "サポート"
+    },
+    "screenshots": {
+        "title": "アプリのスクリーンショット",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
