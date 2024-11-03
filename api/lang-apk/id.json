@@ -1,0 +1,53 @@
+{
+    "title": "Unduh Dalam Kontak",
+    "header": {
+        "h1": "Unduh Dalam Kontak dan tetap terhubung!",
+        "p": "Semua yang Anda butuhkan untuk komunikasi dan bisnis dalam satu tempat."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Antarmuka Ramah Pengguna",
+            "p": "Desain yang ringan dan intuitif. Pilih antara tema siang dan malam!"
+        },
+        "quickResponse": {
+            "h2": "Respon Cepat",
+            "p": "Notifikasi untuk pesan baru datang secara instan ke ponsel Anda — Anda akan selalu terhubung."
+        },
+        "newsAndEvents": {
+            "h2": "Berita dan Acara",
+            "p": "Tetap diperbarui dengan berita dan acara terbaru dari teman dan orang terkasih!"
+        },
+        "communities": {
+            "h2": "Komunitas",
+            "p": "Temukan dan bergabung dengan komunitas menarik berdasarkan hobi dan minat Anda."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Bagikan foto dan video dengan teman-teman."
+        },
+        "messaging": {
+            "h2": "Pesan",
+            "p": "Cara sederhana dan andal untuk mengirim pesan secara gratis!"
+        },
+        "expressEmotions": {
+            "h2": "Ekspresikan Emosi",
+            "p": "Terkadang kata-kata tidak cukup. Gunakan stiker."
+        },
+        "growYourBusiness": {
+            "h2": "Kembangkan Bisnis Anda",
+            "p": "Dengan Free Market, Anda dapat menjangkau pelanggan di seluruh dunia."
+        },
+        "synchronization": {
+            "h2": "Sinkronisasi",
+            "p": "Akses dari beberapa perangkat secara bersamaan."
+        }
+    },
+    "cta": {
+        "h2": "Unduh DKontak sekarang juga!",
+        "button": "Unduh untuk Android"
+    },
+    "footer": {
+        "privacy": "Kebijakan Privasi",
+        "support": "Dukungan"
+    }
+}
