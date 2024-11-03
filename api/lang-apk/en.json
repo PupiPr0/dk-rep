@@ -1,0 +1,53 @@
+{
+    "title": "Download Dalam Kontak",
+    "header": {
+        "h1": "Download Dalam Kontak and stay connected!",
+        "p": "Everything you need for communication and business in one place."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "User-Friendly Interface",
+            "p": "Light and intuitive design. Choose between day and night themes!"
+        },
+        "quickResponse": {
+            "h2": "Quick Response",
+            "p": "Notifications for new messages arrive instantly on your phone — you'll always be connected."
+        },
+        "newsAndEvents": {
+            "h2": "News and Events",
+            "p": "Stay updated with the latest news and events from friends and loved ones!"
+        },
+        "communities": {
+            "h2": "Communities",
+            "p": "Find and join interesting communities based on your hobbies and interests."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Share photos and videos with friends."
+        },
+        "messaging": {
+            "h2": "Messaging",
+            "p": "A simple and reliable way to message for free!"
+        },
+        "expressEmotions": {
+            "h2": "Express Emotions",
+            "p": "Sometimes words are not enough. Use stickers."
+        },
+        "growYourBusiness": {
+            "h2": "Grow Your Business",
+            "p": "With Free Market, you can reach customers all over the world."
+        },
+        "synchronization": {
+            "h2": "Synchronization",
+            "p": "Access from multiple devices simultaneously."
+        }
+    },
+    "cta": {
+        "h2": "Download DKontak right now!",
+        "button": "Download for Android"
+    },
+    "footer": {
+        "privacy": "Privacy Policy",
+        "support": "Support"
+    }
+}
