@@ -8,6 +8,13 @@
                          userLang.startsWith('ro') ? 'ro.json' : 
                          userLang.startsWith('pt-BR') ? 'pt-BR.json' : 
                          userLang.startsWith('pt') ? 'pt.json' :
+
+                  userLang.startsWith('ja') ? 'ja.json' : 
+                  userLang.startsWith('zh') ? 'zh.json' : // 
+                  userLang.startsWith('ur') ? 'ur.json' : // 
+                  userLang.startsWith('fa') ? 'fa.json' : // 
+                  userLang.startsWith('uk') ? 'uk.json' : // 
+         
                          'en.json';
 
         fetch(`https://res.dkon.app/api/lang-apk/${langFile}`)
