@@ -1,13 +1,13 @@
 {
     "title": "Pobierz Dalam Kontak",
     "header": {
-        "h1": "Pobierz Dalam Kontak i pozostań w kontakcie!",
-        "p": "Wszystko, czego potrzebujesz do komunikacji i biznesu w jednym miejscu."
+        "h1": "Pobierz Dalam Kontak i bądź w kontakcie!",
+        "p": "Wszystko, czego potrzebujesz do komunikacji i biznesu, w jednym miejscu."
     },
     "features": {
         "userFriendly": {
             "h2": "Przyjazny interfejs",
-            "p": "Lekki i intuicyjny design. Wybierz między motywem dziennym a nocnym!"
+            "p": "Łatwy i intuicyjny design. Wybieraj między trybem dziennym a nocnym!"
         },
         "quickResponse": {
             "h2": "Szybka reakcja",
@@ -19,35 +19,46 @@
         },
         "communities": {
             "h2": "Społeczności",
-            "p": "Znajdź i dołącz do interesujących społeczności związanych z Twoimi hobby i zainteresowaniami."
+            "p": "Znajduj i dołączaj do interesujących społeczności związanych z Twoimi pasjami i zainteresowaniami. Dziel się doświadczeniami, wymieniaj pomysły i znajdź podobnie myślących. Możesz łatwo stworzyć własne społeczności."
         },
         "media": {
             "h2": "Media",
-            "p": "Dziel się zdjęciami i filmami z przyjaciółmi."
+            "p": "Dziel się zdjęciami i filmami z przyjaciółmi. Prześlij swoje zdjęcia i filmy do Galerii!"
         },
         "messaging": {
             "h2": "Wiadomości",
-            "p": "Prosty i niezawodny sposób na wysyłanie wiadomości za darmo!"
+            "p": "Prosty i niezawodny sposób na bezpłatną wymianę wiadomości i pozostawanie w kontakcie z dowolnego miejsca na świecie!"
         },
         "expressEmotions": {
             "h2": "Wyrażaj emocje",
-            "p": "Czasami słowa to za mało. Użyj naklejek."
+            "p": "Czasami słowa to za mało. Używaj naklejek, dziel się codziennymi wrażeniami za pomocą funkcji 'Status'."
         },
         "growYourBusiness": {
             "h2": "Rozwijaj swój biznes",
-            "p": "Dzięki Free Market możesz dotrzeć do klientów na całym świecie."
+            "p": "Dzięki darmowemu rynkowi możesz dotrzeć do klientów na całym świecie i skalować swoje procesy biznesowe. Prezentuj produkty i usługi, zwiększaj sprzedaż i buduj relacje z klientami!"
         },
         "synchronization": {
             "h2": "Synchronizacja",
-            "p": "Dostęp z wielu urządzeń jednocześnie."
+            "p": "Dostęp z wielu urządzeń jednocześnie. Teraz możesz łatwo przełączać się między swoim smartfonem, tabletem a komputerem. Wszystkie Twoje wiadomości, powiadomienia i ustawienia synchronizują się w czasie rzeczywistym, bądź w kontakcie w każdej chwili i w każdym miejscu."
         }
     },
     "cta": {
         "h2": "Pobierz DKontak już teraz!",
-        "button": "Pobierz na Androida"
+        "button": "Pobierz dla Androida"
     },
     "footer": {
         "privacy": "Polityka prywatności",
         "support": "Wsparcie"
+    },
+    "screenshots": {
+        "title": "Zrzuty ekranu aplikacji",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
     }
 }
