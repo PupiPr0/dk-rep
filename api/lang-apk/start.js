@@ -3,6 +3,11 @@
         const langFile = userLang.startsWith('ru') ? 'ru.json' : 
                          userLang.startsWith('pl') ? 'pl.json' : 
                          userLang.startsWith('id') ? 'id.json' : 
+                         userLang.startsWith('ar') ? 'ar.json' : //
+                         userLang.startsWith('hi') ? 'hi.json' : 
+                         userLang.startsWith('ro') ? 'ro.json' : 
+                         userLang.startsWith('pt-BR') ? 'pt-BR.json' : 
+                         userLang.startsWith('pt') ? 'pt.json' :
                          'en.json';
 
         fetch(`https://res.dkon.app/api/lang-apk/${langFile}`)
