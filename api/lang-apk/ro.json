@@ -1,0 +1,64 @@
+{
+    "title": "Descarcă Dalam Kontak",
+    "header": {
+        "h1": "Descarcă Dalam Kontak și rămâi conectat!",
+        "p": "Tot ce ai nevoie pentru comunicare și afaceri, într-un singur loc."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Interfață prietenoasă",
+            "p": "Design ușor și intuitiv. Alege între tema de zi și cea de noapte!"
+        },
+               "quickResponse": {
+            "h2": "Răspuns rapid",
+            "p": "Notificările pentru mesajele noi ajung instantaneu pe telefonul tău — vei fi mereu conectat."
+        },
+        "newsAndEvents": {
+            "h2": "Știri și evenimente",
+            "p": "Fii la curent cu cele mai recente știri și evenimente de la prieteni și cei dragi!"
+        },
+        "communities": {
+            "h2": "Comunități",
+            "p": "Găsește și alătură-te comunităților interesante în funcție de pasiunile și interesele tale. Împărtășește experiențe, schimbă idei și găsește oameni cu aceleași gânduri. Poți crea cu ușurință propriile tale comunități."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Împărtășește fotografii și videoclipuri cu prietenii. Încarcă fotografiile și videoclipurile tale în Galerie!"
+        },
+        "messaging": {
+            "h2": "Mesaje",
+            "p": "O modalitate simplă și fiabilă de a schimba mesaje gratuit și de a rămâne conectat din orice colț al lumii!"
+        },
+        "expressEmotions": {
+            "h2": "Exprimați emoții",
+            "p": "Uneori, cuvintele nu sunt suficiente. Folosește stickere, împărtășește impresiile tale zilnice prin funcția 'Status'."
+        },
+        "growYourBusiness": {
+            "h2": "Dezvoltă-ți afacerea",
+            "p": "Cu ajutorul pieței gratuite, poți ajunge la clienți din întreaga lume și să-ți scalezi procesele de afaceri. Prezintă produse și servicii, crește vânzările și construiește relații cu clienții!"
+        },
+        "synchronization": {
+            "h2": "Sincronizare",
+            "p": "Acces de pe mai multe dispozitive simultan. Acum poți comuta cu ușurință între smartphone-ul, tableta și computerul tău. Toate mesajele, notificările și setările tale se sincronizează în timp real, rămâi conectat în orice moment și din orice loc."
+        }
+    },
+    "cta": {
+        "h2": "Descarcă DKontak acum!",
+        "button": "Descarcă pentru Android"
+    },
+    "footer": {
+        "privacy": "Politica de confidențialitate",
+        "support": "Asistență"
+    },
+    "screenshots": {
+        "title": "Capturi de ecran ale aplicației",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
