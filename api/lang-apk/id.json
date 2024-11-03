@@ -2,44 +2,44 @@
     "title": "Unduh Dalam Kontak",
     "header": {
         "h1": "Unduh Dalam Kontak dan tetap terhubung!",
-        "p": "Semua yang Anda butuhkan untuk komunikasi dan bisnis dalam satu tempat."
+        "p": "Semua yang Anda butuhkan untuk komunikasi dan bisnis, dalam satu tempat."
     },
     "features": {
         "userFriendly": {
-            "h2": "Antarmuka Ramah Pengguna",
+            "h2": "Antarmuka yang Ramah Pengguna",
             "p": "Desain yang ringan dan intuitif. Pilih antara tema siang dan malam!"
         },
         "quickResponse": {
             "h2": "Respon Cepat",
-            "p": "Notifikasi untuk pesan baru datang secara instan ke ponsel Anda — Anda akan selalu terhubung."
+            "p": "Notifikasi pesan baru datang secara instan ke ponsel Anda — Anda akan selalu terhubung."
         },
         "newsAndEvents": {
             "h2": "Berita dan Acara",
-            "p": "Tetap diperbarui dengan berita dan acara terbaru dari teman dan orang terkasih!"
+            "p": "Tetap up-to-date dengan berita dan acara terbaru dari teman dan orang terdekat!"
         },
         "communities": {
             "h2": "Komunitas",
-            "p": "Temukan dan bergabung dengan komunitas menarik berdasarkan hobi dan minat Anda."
+            "p": "Temukan dan bergabung dengan komunitas menarik berdasarkan hobi dan minat Anda. Bagikan pengalaman, tukar ide, dan temukan teman sejalan. Anda juga dapat dengan mudah membuat komunitas Anda sendiri."
         },
         "media": {
             "h2": "Media",
-            "p": "Bagikan foto dan video dengan teman-teman."
+            "p": "Bagikan foto dan video dengan teman-teman. Unggah foto dan video Anda ke Galeri!"
         },
         "messaging": {
             "h2": "Pesan",
-            "p": "Cara sederhana dan andal untuk mengirim pesan secara gratis!"
+            "p": "Cara yang sederhana dan andal untuk bertukar pesan secara gratis dan tetap terhubung di mana saja di dunia!"
         },
         "expressEmotions": {
             "h2": "Ekspresikan Emosi",
-            "p": "Terkadang kata-kata tidak cukup. Gunakan stiker."
+            "p": "Terkadang kata-kata tidak cukup. Gunakan stiker, bagikan pengalaman sehari-hari Anda dengan fitur 'Status'."
         },
         "growYourBusiness": {
             "h2": "Kembangkan Bisnis Anda",
-            "p": "Dengan Free Market, Anda dapat menjangkau pelanggan di seluruh dunia."
+            "p": "Dengan pasar gratis, Anda dapat menjangkau pelanggan di seluruh dunia dan meningkatkan proses bisnis Anda. Perkenalkan produk dan layanan, tingkatkan penjualan, dan bangun hubungan dengan pelanggan!"
         },
         "synchronization": {
             "h2": "Sinkronisasi",
-            "p": "Akses dari beberapa perangkat secara bersamaan."
+            "p": "Akses dari beberapa perangkat secara bersamaan. Sekarang Anda dapat dengan mudah beralih antara smartphone, tablet, dan komputer Anda. Semua pesan, notifikasi, dan pengaturan Anda disinkronkan secara real-time, tetap terhubung kapan saja dan di mana saja."
         }
     },
     "cta": {
@@ -49,5 +49,16 @@
     "footer": {
         "privacy": "Kebijakan Privasi",
         "support": "Dukungan"
+    },
+    "screenshots": {
+        "title": "Tangkapan Layar Aplikasi",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
     }
 }
