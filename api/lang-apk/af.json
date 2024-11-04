@@ -1,0 +1,64 @@
+{
+    "title": "Laai Dalam Kontak af",
+    "header": {
+        "h1": "Laai Dalam Kontak af en bly in verbinding!",
+        "p": "Alles wat jy nodig het vir kommunikasie en besigheid, op een plek."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Gebruiksvriendelike koppelvlak",
+            "p": "‘n Eenvoudige en intuïtiewe ontwerp. Kies tussen dag- en nagtemas!"
+        },
+        "quickResponse": {
+            "h2": "Vinige reaksie",
+            "p": "Kennisgewings van nuwe boodskappe kom onmiddellik op jou foon - jy sal altyd in verbinding wees."
+        },
+        "newsAndEvents": {
+            "h2": "Nuus en gebeurtenisse",
+            "p": "Bly op hoogte van die nuutste nuus en gebeurtenisse van vriende en familie!"
+        },
+        "communities": {
+            "h2": "Gemeenskappe",
+            "p": "Vind en sluit aan by interessante gemeenskappe gebaseer op jou stokperdjies en belangstellings. Deel ervarings, ruil idees uit en verbind met mense met dieselfde gedagtes. Jy kan maklik jou eie gemeenskappe skep."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Deel foto's en video's met vriende. Laai jou foto's en video's in die Galery op!"
+        },
+        "messaging": {
+            "h2": "Boodskappe",
+            "p": "‘n Eenvoudige en betroubare manier om gratis boodskappe uit te ruil en oral ter wêreld in verbinding te bly!"
+        },
+        "expressEmotions": {
+            "h2": "Druk emosies uit",
+            "p": "Soms is woorde nie genoeg nie. Gebruik plakkers, deel daaglikse indrukke met die 'Status' funksie."
+        },
+        "growYourBusiness": {
+            "h2": "Groei jou besigheid",
+            "p": "Met die gratis markplek kan jy kliënte regoor die wêreld bereik en jou besigheidsprosesse opskaal. Vertoon produkte en dienste, verhoog verkope en bou verhoudings met kliënte!"
+        },
+        "synchronization": {
+            "h2": "Sinkronisasie",
+            "p": "Toegang vanaf verskeie toestelle gelyktydig. Nou kan jy maklik tussen jou slimfoon, tablet en rekenaar wissel. Al jou boodskappe, kennisgewings en instellings word in werklike tyd gesinkroniseer, bly in verbinding enige tyd en enige plek."
+        }
+    },
+    "cta": {
+        "h2": "Laai DKontak nou af!",
+        "button": "Laai af vir Android"
+    },
+    "footer": {
+        "privacy": "Privaatheidsbeleid",
+        "support": "Ondersteuning"
+    },
+    "screenshots": {
+        "h2": "Skermskote van die app",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
