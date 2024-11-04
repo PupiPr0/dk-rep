@@ -1,7 +1,10 @@
 const container = document.querySelector('.screenshot-container');
 
 let scrollAmount = 0;
-const scrollStep = 1; 
+
+//const scrollStep = 1; 
+const scrollStep = 2; 
+
 
 function autoScroll() {
     if (scrollAmount < container.scrollWidth - container.clientWidth) {
@@ -13,4 +16,5 @@ function autoScroll() {
     }
 }
 
-setInterval(autoScroll, 50);
+//setInterval(autoScroll, 50);
+setInterval(autoScroll, 100); 
