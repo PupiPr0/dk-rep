@@ -51,7 +51,7 @@
         "support": "Поддержка"
     },
     "screenshots": {
-        "title": "Скриншоты приложения",
+        "h2": "Скриншоты приложения",
         "images": [
             "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
             "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
