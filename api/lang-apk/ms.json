@@ -1,0 +1,64 @@
+{
+    "title": "Muat Turun Dalam Kontak",
+    "header": {
+        "h1": "Muat turun Dalam Kontak dan kekal berhubung!",
+        "p": "Semua yang anda perlukan untuk komunikasi dan perniagaan, di satu tempat."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Antaramuka Mesra Pengguna",
+            "p": "Reka bentuk yang mudah dan intuitif. Pilih antara tema siang dan malam!"
+        },
+        "quickResponse": {
+            "h2": "Tindak Balas Pantas",
+            "p": "Pemberitahuan tentang mesej baru tiba dengan serta-merta di telefon anda - anda sentiasa akan berhubung."
+        },
+        "newsAndEvents": {
+            "h2": "Berita dan Acara",
+            "p": "Kekal maklum tentang berita dan acara terkini daripada rakan dan keluarga!"
+        },
+        "communities": {
+            "h2": "Komuniti",
+            "p": "Cari dan sertai komuniti menarik berdasarkan hobi dan minat anda. Kongsikan pengalaman, tukar idea dan berhubung dengan orang yang sehaluan. Anda boleh dengan mudah mencipta komuniti anda sendiri."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Kongsi gambar dan video dengan rakan-rakan. Muat naik gambar dan video anda ke Galeri!"
+        },
+        "messaging": {
+            "h2": "Mesej",
+            "p": "Cara yang mudah dan boleh dipercayai untuk bertukar mesej secara percuma dan kekal berhubung di mana sahaja di dunia!"
+        },
+        "expressEmotions": {
+            "h2": "Ekspresikan Emosi",
+            "p": "Kadang-kadang kata-kata tidak mencukupi. Gunakan pelekat, kongsikan pengalaman harian dengan fungsi 'Status'."
+        },
+        "growYourBusiness": {
+            "h2": "Kembangkan Perniagaan Anda",
+            "p": "Dengan pasaran percuma, anda boleh mencapai pelanggan di seluruh dunia dan mengembangkan proses perniagaan anda. Tampilkan produk dan perkhidmatan, tingkatkan jualan dan bina hubungan dengan pelanggan!"
+        },
+        "synchronization": {
+            "h2": "Penyelarasan",
+            "p": "Akses dari beberapa peranti secara serentak. Kini anda boleh dengan mudah beralih antara telefon pintar, tablet dan komputer anda. Semua mesej, pemberitahuan dan tetapan anda diselaraskan dalam masa nyata, kekal berhubung pada bila-bila masa dan di mana sahaja."
+        }
+    },
+    "cta": {
+        "h2": "Muat turun DKontak sekarang!",
+        "button": "Muat turun untuk Android"
+    },
+    "footer": {
+        "privacy": "Dasar Privasi",
+        "support": "Sokongan"
+    },
+    "screenshots": {
+        "h2": "Tangkapan Skrin Aplikasi",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
