@@ -1,0 +1,64 @@
+{
+    "title": "Download Dalam Kontak",
+    "header": {
+        "h1": "Download Dalam Kontak and stay connected!",
+        "p": "Everything you need for communication and business, all in one place."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "User-Friendly Interface",
+            "p": "A simple and intuitive design. Choose between light and dark themes!"
+        },
+        "quickResponse": {
+            "h2": "Quick Response",
+            "p": "Notifications for new messages arrive instantly on your phone — you'll always be connected."
+        },
+        "newsAndEvents": {
+            "h2": "News and Events",
+            "p": "Stay updated on the latest news and events from friends and family!"
+        },
+        "communities": {
+            "h2": "Communities",
+            "p": "Find and join interesting communities based on your hobbies and interests. Share experiences, exchange ideas, and connect with like-minded individuals. You can easily create your own communities."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Share photos and videos with friends. Upload your photos and videos to the Gallery!"
+        },
+        "messaging": {
+            "h2": "Messaging",
+            "p": "A simple and reliable way to exchange messages for free and stay connected anywhere in the world!"
+        },
+        "expressEmotions": {
+            "h2": "Express Emotions",
+            "p": "Sometimes words aren't enough. Use stickers, share everyday impressions with the 'Status' feature."
+        },
+        "growYourBusiness": {
+            "h2": "Grow Your Business",
+            "p": "With the free marketplace, you can reach customers worldwide and scale your business processes. Showcase products and services, increase sales, and build relationships with customers!"
+        },
+        "synchronization": {
+            "h2": "Synchronization",
+            "p": "Access from multiple devices simultaneously. Now you can easily switch between your smartphone, tablet, and computer. All your messages, notifications, and settings are synchronized in real-time, so you can stay connected anytime, anywhere."
+        }
+    },
+    "cta": {
+        "h2": "Download DKontak now!",
+        "button": "Download for Android"
+    },
+    "footer": {
+        "privacy": "Privacy Policy",
+        "support": "Support"
+    },
+    "screenshots": {
+        "h2": "App Screenshots",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
