@@ -67,7 +67,7 @@
             }
         }
         
-        .screenshot-container {
+/*        .screenshot-container { 
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -91,3 +91,23 @@
             cursor: pointer;
             margin: 5px;
         }
+*/
+
+.screenshot-container {
+    display: flex; 
+    overflow-x: auto; 
+    scroll-snap-type: x mandatory; 
+    gap: 10px; 
+    padding: 10px; 
+}
+
+.screenshot {
+    flex: 0 0 auto; 
+    width: 300px;
+    height: auto; 
+    scroll-snap-align: start; 
+}
+
+.screenshot-container::-webkit-scrollbar {
+    display: none; 
+}
