@@ -10,10 +10,20 @@
                          userLang.startsWith('pt') ? 'pt.json' :
 
                   userLang.startsWith('ja') ? 'ja.json' : 
-                  userLang.startsWith('zh') ? 'zh.json' : // 
-                  userLang.startsWith('ur') ? 'ur.json' : // 
-                  userLang.startsWith('fa') ? 'fa.json' : // 
-                  userLang.startsWith('uk') ? 'uk.json' : // 
+                  userLang.startsWith('zh') ? 'zh.json' : 
+                  userLang.startsWith('ur') ? 'ur.json' : 
+                  userLang.startsWith('fa') ? 'fa.json' : 
+                  userLang.startsWith('uk') ? 'uk.json' :
+
+                  userLang.startsWith('de') ? 'de.json' : 
+                  userLang.startsWith('fr-CA') ? 'fr-CA.json' : 
+                  userLang.startsWith('fr-BE') ? 'fr-BE.json' : 
+                  userLang.startsWith('fr') ? 'fr.json' : 
+                  userLang.startsWith('he') ? 'he.json' : 
+
+                  userLang.startsWith('bn') ? 'bn.json' : 
+                  userLang.startsWith('af') ? 'af.json' : 
+                  userLang.startsWith('ms') ? 'ms.json' : 
          
                          'en.json';
 
