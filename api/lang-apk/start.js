@@ -50,7 +50,7 @@ userLang.startsWith('sd') ? 'sd.json' :
          userLang.startsWith('ye') ? 'ye.json' :  
          userLang.startsWith('am') ? 'am.json' :  
 
-
+userLang.startsWith('ti') ? 'ti.json' :
          
                          'en.json';
 
