@@ -27,6 +27,13 @@
                   userLang.startsWith('mk') ? 'mk.json' :  
                   userLang.startsWith('no') ? 'no.json' : 
 
+
+userLang.startsWith('it') ? 'it.json' :  
+userLang.startsWith('lv') ? 'lv.json' :  
+userLang.startsWith('lt') ? 'lt.json' :  
+userLang.startsWith('be') ? 'be.json' :  
+userLang.startsWith('tr') ? 'tr.json' :  
+userLang.startsWith('kk') ? 'kk.json' :  
          
                          'en.json';
 
