@@ -1,0 +1,56 @@
+{
+    "title": "Descargar Dalam Kontak",
+    "header": {
+        "h1": "¡Descarga Dalam Kontak y mantente conectado!",
+        "p": "Todo lo que necesitas para comunicarte y hacer negocios en un solo lugar."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Interfaz amigable",
+            "p": "Diseño fácil e intuitivo. ¡Elige entre el modo diurno y nocturno!"
+        },
+        "quickResponse": {
+            "h2": "Respuesta rápida",
+            "p": "Las notificaciones de nuevos mensajes llegan instantáneamente a tu teléfono: siempre estarás conectado."
+        },
+        "newsAndEvents": {
+            "h2": "Noticias y eventos",
+            "p": "¡Mantente al tanto de las últimas noticias y eventos de amigos y seres queridos!"
+        },
+        "communities": {
+            "h2": "Comunidades",
+            "p": "Encuentra y únete a comunidades interesantes relacionadas con tus pasatiempos e intereses. Comparte experiencias, intercambia ideas y encuentra personas afines. ¡Puedes crear fácilmente tus propias comunidades!"
+        },
+        "media": {
+            "h2": "Medios",
+            "p": "Comparte fotos y videos con amigos. ¡Sube tus fotos y videos a la Galería!"
+        },
+        "messaging": {
+            "h2": "Mensajes",
+            "p": "¡Una forma simple y confiable de intercambiar mensajes gratis y mantenerte conectado desde cualquier parte del mundo!"
+        },
+        "expressEmotions": {
+            "h2": "Expresa tus emociones",
+            "p": "A veces, las palabras no son suficientes. Usa stickers, comparte tus impresiones diarias a través de la función 'Estado'."
+        },
+        "growYourBusiness": {
+            "h2": "Haz crecer tu negocio",
+            "p": "Con el mercado gratuito, puedes alcanzar clientes en todo el mundo y escalar tus procesos comerciales. Presenta productos y servicios, aumenta tus ventas y construye relaciones con los clientes."
+        },
+        "synchronization": {
+            "h2": "Sincronización",
+            "p": "Acceso desde varios dispositivos al mismo tiempo. Ahora puedes cambiar fácilmente entre tu smartphone, tablet y computadora. Todos tus mensajes, notificaciones y configuraciones se sincronizan en tiempo real, mantente conectado en cualquier momento y lugar."
+        }
+    },
+    "cta": {
+        "h2": "¡Descarga DKontak ahora!",
+        "button": "Descargar para Android"
+    },
+    "footer": {
+        "privacy": "Política de privacidad",
+        "support": "Soporte"
+    },
+    "screenshots": {
+        "h2": "Capturas de pantalla de la aplicación"
+    }
+}
