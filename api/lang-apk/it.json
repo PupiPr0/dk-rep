@@ -1,0 +1,64 @@
+{
+    "title": "Scarica Dalam Kontak",
+    "header": {
+        "h1": "Scarica Dalam Kontak e rimani connesso!",
+        "p": "Tutto ciò di cui hai bisogno per comunicare e fare affari, in un unico posto."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Interfaccia intuitiva",
+            "p": "Design semplice e intuitivo. Scegli tra temi chiari e scuri!"
+        },
+        "quickResponse": {
+            "h2": "Risposta rapida",
+            "p": "Le notifiche sui nuovi messaggi arrivano istantaneamente sul tuo telefono: sarai sempre connesso."
+        },
+        "newsAndEvents": {
+            "h2": "Notizie ed eventi",
+            "p": "Rimani aggiornato sulle ultime notizie e eventi da amici e familiari!"
+        },
+        "communities": {
+            "h2": "Comunità",
+            "p": "Trova e unisciti a comunità interessanti in base ai tuoi hobby e interessi. Condividi esperienze, scambia idee e trova persone affini. Puoi facilmente creare le tue comunità."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Condividi foto e video con gli amici. Carica le tue foto e video nella Galleria!"
+        },
+        "messaging": {
+            "h2": "Messaggi",
+            "p": "Un modo semplice e affidabile per inviare messaggi gratuitamente e rimanere connessi ovunque nel mondo!"
+        },
+        "expressEmotions": {
+            "h2": "Esprimi emozioni",
+            "p": "A volte le parole non bastano. Usa adesivi, condividi le tue esperienze quotidiane con la funzione 'Stato'."
+        },
+        "growYourBusiness": {
+            "h2": "Fai crescere il tuo business",
+            "p": "Con il marketplace gratuito puoi raggiungere clienti in tutto il mondo e scalare i tuoi processi aziendali. Presenta prodotti e servizi, aumenta le vendite e costruisci relazioni con i clienti!"
+        },
+        "synchronization": {
+            "h2": "Sincronizzazione",
+            "p": "Accesso da più dispositivi contemporaneamente. Ora puoi facilmente passare dal tuo smartphone, tablet e computer. Tutti i tuoi messaggi, notifiche e impostazioni si sincronizzano in tempo reale, rimani connesso in qualsiasi momento e ovunque."
+        }
+    },
+    "cta": {
+        "h2": "Scarica DKontak adesso!",
+        "button": "Scarica per Android"
+    },
+    "footer": {
+        "privacy": "Politica sulla privacy",
+        "support": "Supporto"
+    },
+    "screenshots": {
+        "h2": "Screenshot dell'app",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
