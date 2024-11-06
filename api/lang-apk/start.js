@@ -34,6 +34,18 @@ userLang.startsWith('lt') ? 'lt.json' :
 userLang.startsWith('be') ? 'be.json' :  
 userLang.startsWith('tr') ? 'tr.json' :  
 userLang.startsWith('kk') ? 'kk.json' :  
+
+userLang.startsWith('le') ? 'le.json' :  
+userLang.startsWith('bg') ? 'bg.json' :  
+userLang.startsWith('el') ? 'el.json' :  
+userLang.startsWith('dz') ? 'dz.json' :  
+userLang.startsWith('mr') ? 'mr.json' :  
+userLang.startsWith('sy') ? 'sy.json' :  
+userLang.startsWith('ve') ? 've.json' :  
+userLang.startsWith('ly') ? 'ly.json' :  
+userLang.startsWith('zw') ? 'zw.json' :  
+userLang.startsWith('sd') ? 'sd.json' :  
+
          
                          'en.json';
 
