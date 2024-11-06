@@ -1,0 +1,64 @@
+{
+    "title": "Dalam Kontak'ı İndir",
+    "header": {
+        "h1": "Dalam Kontak'ı indirin ve bağlantıda kalın!",
+        "p": "İletişim ve iş için ihtiyacınız olan her şey tek bir yerde."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Kullanıcı dostu arayüz",
+            "p": "Kolay ve sezgisel tasarım. Günlük ve gece temaları arasında seçim yapın!"
+        },
+        "quickResponse": {
+            "h2": "Hızlı yanıt",
+            "p": "Yeni mesaj bildirimleri telefonunuza anında gelir - her zaman bağlantıda olacaksınız."
+        },
+        "newsAndEvents": {
+            "h2": "Haberler ve etkinlikler",
+            "p": "Arkadaşlarınızdan ve sevdiklerinizden en son haberler ve etkinlikler hakkında bilgi sahibi olun!"
+        },
+        "communities": {
+            "h2": "Topluluklar",
+            "p": "Hobilerinize ve ilgi alanlarınıza göre ilginç topluluklar bulun ve katılın. Deneyimlerinizi paylaşın, fikir alışverişinde bulunun ve benzer düşünen insanlarla tanışın. Kendi topluluklarınızı kolayca oluşturabilirsiniz."
+        },
+        "media": {
+            "h2": "Medya",
+            "p": "Arkadaşlarınızla fotoğraf ve video paylaşın. Fotoğraflarınızı ve videolarınızı Galeriye yükleyin!"
+        },
+        "messaging": {
+            "h2": "Mesajlaşma",
+            "p": "Ücretsiz mesajlaşmanın basit ve güvenilir bir yolu ve dünyanın her yerinde bağlantıda kalın!"
+        },
+        "expressEmotions": {
+            "h2": "Duygularınızı ifade edin",
+            "p": "Bazen kelimeler yeterli değildir. Çıkartmalar kullanın, 'Durum' özelliği ile günlük deneyimlerinizi paylaşın."
+        },
+        "growYourBusiness": {
+            "h2": "İşinizi büyütün",
+            "p": "Ücretsiz pazar yeri ile dünya genelindeki müşterilere ulaşabilir ve iş süreçlerinizi ölçeklendirebilirsiniz. Ürün ve hizmetlerinizi tanıtın, satışları artırın ve müşterilerle ilişkiler kurun!"
+        },
+        "synchronization": {
+            "h2": "Senkronizasyon",
+            "p": "Birden fazla cihazdan aynı anda erişim. Artık akıllı telefonunuz, tabletiniz ve bilgisayarınız arasında kolayca geçiş yapabilirsiniz. Tüm mesajlarınız, bildirimleriniz ve ayarlarınız gerçek zamanlı olarak senkronize edilir, her zaman ve her yerde bağlantıda kalın."
+        }
+    },
+    "cta": {
+        "h2": "Şimdi DKontak'ı indirin!",
+        "button": "Android için indir"
+    },
+    "footer": {
+        "privacy": "Gizlilik politikası",
+        "support": "Destek"
+    },
+    "screenshots": {
+        "h2": "Uygulama ekran görüntüleri",
+        "images": [
+            "https://res.dkon.app/img/apk-template/dkon.app_4a1448e92d4b825ee414c2dg81.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_1379675da369468aafg3fa72d4.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_ae1ff86a8aa687aa8cf5f3c257.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_e7accc60a2d43ade9578188aea.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_4a52e729dab5308733gd9b2c53.png",
+            "https://res.dkon.app/img/apk-template/dkon.app_a53120ba94e5d8fa21e85b29g9.png"
+        ]
+    }
+}
