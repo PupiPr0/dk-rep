@@ -1,1 +1,56 @@
-
+{
+    "title": "I-download ang Dalam Kontak",
+    "header": {
+        "h1": "I-download ang Dalam Kontak at manatiling konektado!",
+        "p": "Lahat ng kailangan mo para sa komunikasyon at negosyo, nasa isang lugar."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Maginhawang interface",
+            "p": "Madali at intuitive na disenyo. Pumili sa pagitan ng araw at gabi na tema!"
+        },
+        "quickResponse": {
+            "h2": "Mabilis na tugon",
+            "p": "Agad na natatanggap ang mga notification ng mga bagong mensahe sa iyong telepono — palagi kang konektado."
+        },
+        "newsAndEvents": {
+            "h2": "Balita at mga kaganapan",
+            "p": "Manatiling updated sa pinakabagong balita at mga kaganapan mula sa mga kaibigan at pamilya!"
+        },
+        "communities": {
+            "h2": "Mga komunidad",
+            "p": "Maghanap at sumali sa mga interesanteng komunidad batay sa iyong mga hilig at interes. Ibahagi ang karanasan, magpalitan ng ideya, at makahanap ng mga kapareho ng isip. Madali kang makakagawa ng sarili mong mga komunidad."
+        },
+        "media": {
+            "h2": "Media",
+            "p": "Ibahagi ang mga larawan at video sa mga kaibigan. I-upload ang iyong mga larawan at video sa Gallery!"
+        },
+        "messaging": {
+            "h2": "Mga mensahe",
+            "p": "Isang simpleng at maaasahang paraan ng pagpapadala ng mensahe nang libre at manatiling konektado saan mang dako ng mundo!"
+        },
+        "expressEmotions": {
+            "h2": "Ipinapahayag ang mga emosyon",
+            "p": "Minsan, hindi sapat ang mga salita. Gumamit ng mga sticker, ibahagi ang mga pang-araw-araw na karanasan gamit ang 'Status' na tampok."
+        },
+        "growYourBusiness": {
+            "h2": "Palaguin ang iyong negosyo",
+            "p": "Sa tulong ng libreng marketplace, maaari mong maabot ang mga kliyente sa buong mundo at palakihin ang iyong mga proseso sa negosyo. Ipresenta ang mga produkto at serbisyo, dagdagan ang benta, at bumuo ng relasyon sa mga kliyente!"
+        },
+        "synchronization": {
+            "h2": "Sinkronisasyon",
+            "p": "Access mula sa maraming device nang sabay-sabay. Ngayon, madali ka nang makakapagpalipat-lipat sa iyong smartphone, tablet, at computer. Lahat ng iyong mensahe, notification, at mga setting ay nag-synchronize sa real-time, manatiling konektado anumang oras at saan mang lugar."
+        }
+    },
+    "cta": {
+        "h2": "I-download ang DKontak ngayon din!",
+        "button": "I-download para sa Android"
+    },
+    "footer": {
+        "privacy": "Patakaran sa Privacy",
+        "support": "Suporta"
+    },
+    "screenshots": {
+        "h2": "Mga screenshot ng app"
+    }
+}
