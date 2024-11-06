@@ -45,6 +45,11 @@ userLang.startsWith('ve') ? 've.json' :
 userLang.startsWith('ly') ? 'ly.json' :  
 userLang.startsWith('zw') ? 'zw.json' :  
 userLang.startsWith('sd') ? 'sd.json' :  
+         
+
+         userLang.startsWith('ye') ? 'ye.json' :  
+         userLang.startsWith('am') ? 'am.json' :  
+
 
          
                          'en.json';
