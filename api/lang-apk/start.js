@@ -27,7 +27,6 @@
                   userLang.startsWith('mk') ? 'mk.json' :  
                   userLang.startsWith('no') ? 'no.json' : 
 
-         userLang.startsWith('bn') ? 'bn.json' :
          
                          'en.json';
 
