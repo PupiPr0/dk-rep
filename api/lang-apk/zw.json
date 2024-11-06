@@ -1,0 +1,56 @@
+{
+    "title": "Dhawuniro Dalam Kontak",
+    "header": {
+        "h1": "Dhawuniro Dalam Kontak uye ramba uri mukutaurirana!",
+        "p": "Zvese zvaunoda kuti utaure uye uite bhizinesi panzvimbo imwe chete."
+    },
+    "features": {
+        "userFriendly": {
+            "h2": "Interface Inoshamwaridzana",
+            "p": "Dhizaini iri nyore uye inonzwisisika. Sarudza pakati pezuva nehusiku!"
+        },
+        "quickResponse": {
+            "h2": "Kukurumidza Kupindura",
+            "p": "Zviziviso zve meseji itsva zvinouya pakarepo pafoni yako - uchagara uri mukutaurirana."
+        },
+        "newsAndEvents": {
+            "h2": "Nhau uye Zviitiko",
+            "p": "Ramba uchiziva nhau dzichangoburwa uye zviitiko kubva kuvanhu vaunoda!"
+        },
+        "communities": {
+            "h2": "Nharaunda",
+            "p": "Tsvaga uye ubatane nenharaunda dzinofadza dzine chekuita nezvaunofarira. Goverana ruzivo, shandurana pfungwa, uye tsvaga vanhu vanofanana. Unogona nyore kugadzira nharaunda dzako."
+        },
+        "media": {
+            "h2": "Midhiya",
+            "p": "Goverana mifananidzo uye mavhidhiyo nevanhu vaunoshanda navo. Dhawunirodha mifananidzo nemavhidhiyo ako kuGallery!"
+        },
+        "messaging": {
+            "h2": "Mharidzo",
+            "p": "Nzira iri nyore uye yakavimbika yekutaurirana mahara uye kugara uri mukutaurirana kubva kune chero nzvimbo yenyika!"
+        },
+        "expressEmotions": {
+            "h2": "Ratidza Manzwiro",
+            "p": "Dzimwe nguva mazwi haakwanisi. Shandisa ma sticker, uye goverana zvaunofunga zuva nezuva kuburikidza ne 'Chimiro' chako."
+        },
+        "growYourBusiness": {
+            "h2": "Kukura Bhizinesi Rako",
+            "p": "Nekutengesa kwemahara, unogona kusvika kune vatengi pasi rese uye kuwedzera maitiro ebhizinesi rako. Ratidza zvigadzirwa nemasevhisi, wedzera kutengesa, uye uvake hukama nevatengi!"
+        },
+        "synchronization": {
+            "h2": "Kusangana",
+            "p": "Kuwana kubva kumidziyo yakawanda panguva imwe chete. Iye zvino unogona nyore kuchinjana pakati pe smartphone yako, tablet, uye komputa. Meseji dzako dzese, zviziviso, uye marongero anounganidzwa munguva chaiyo, ramba uri mukutaurirana chero nguva uye chero kupi."
+        }
+    },
+    "cta": {
+        "h2": "Dhawunirodha DKontak ikozvino!",
+        "button": "Dhawunirodha yeAndroid"
+    },
+    "footer": {
+        "privacy": "Mutemo wekuvanzika",
+        "support": "Tsigiro"
+    },
+    "screenshots": {
+        "h2": "Mifananidzo yechidzitiro cheapp"
+    }
+}
