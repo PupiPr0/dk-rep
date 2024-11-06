@@ -1,3 +1,5 @@
+//Dkon.app Script
+
 /*const container = document.querySelector('.screenshot-container');
 
 let scrollAmount = 0;
@@ -15,6 +17,8 @@ function autoScroll() {
 }
 setInterval(autoScroll, 50);
 */
+/// Add
+/*
 const container = document.querySelector('.screenshot-container');
 const images = document.querySelectorAll('.screenshot');
 
@@ -50,3 +54,6 @@ images.forEach((img) => {
         imagesLoaded++;
     }
 });
+*/
+
+// End
