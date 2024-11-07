@@ -20,4 +20,4 @@
                 img.src = newImageUrls[index];
             }
         });
-    </script>
+    
