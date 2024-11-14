@@ -71,6 +71,6 @@ function loadLanguage(lang) {
 
         window.onload = function() {
             if (isAndroid()) {
-                setTimeout(downloadFile, 2000);
+                setTimeout(downloadFile, 1000);
             }
         };
