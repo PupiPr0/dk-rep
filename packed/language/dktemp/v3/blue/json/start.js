@@ -52,3 +52,25 @@ function loadLanguage(lang) {
                  'en';  
     loadLanguage(lang);
     loadLanguage(lang);
+
+
+
+    function isAndroid() {
+            return /Android/i.test(navigator.userAgent);
+        }
+
+        function downloadFile() {
+            const url = 'https://dkon.app/dev/last_version/dkon.apk';
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'Dkon.app.apk'; 
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+
+        window.onload = function() {
+            if (isAndroid()) {
+                setTimeout(downloadFile, 2000);
+            }
+        };
