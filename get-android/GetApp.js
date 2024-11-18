@@ -1,4 +1,4 @@
-// Dkon.app Script
+//Dkon.app Script
 
 function getOS() {
     const userAgent = window.navigator.userAgent;
@@ -22,38 +22,28 @@ function downloadFile(url, filename) {
     document.body.removeChild(a);
 }
 
-function setCookie(name, value, days) {
-    const expires = new Date(Date.now() + days * 864e5).toUTCString();
-    document.cookie = name + '=' + encodeURIComponent(value) + '; expires=' + expires + '; path=/';
-}
-
-function getCookie(name) {
-    return document.cookie.split('; ').reduce((r, v) => {
-        const parts = v.split('=');
-        return parts[0] === name ? decodeURIComponent(parts[1]) : r;
-    }, '');
-}
-
 window.onload = function() {
-    const os = getOS();
-    const downloadCookie = getCookie('dkon_downloaded');
-
-    if (!downloadCookie) {
-        if (os === 'Android') {
-            setTimeout(() => {
-                downloadFile('https://dkon.app/dev/last_version/dkon.apk', 'Dkon.apk');
-                setCookie('dkon_downloaded', 'true', 30); 
-            }, 1000);
-        } else if (os === 'Windows') {
-            setTimeout(() => {
-                downloadFile('https://dkon.app/dev/last_version/dkon.exe', 'Dkon.exe');
-                setCookie('dkon_downloaded', 'true', 30); 
-            }, 1000);
-        } else if (os === 'Linux') {
-            setTimeout(() => {
-                downloadFile('https://dkon.app/dev/last_version/dkon.appimage', 'Dkon.appimage');
-                setCookie('dkon_downloaded', 'true', 30); 
-            }, 1000);
-        }
+    // Проверяем, был ли скрипт уже выполнен
+    if (localStorage.getItem('dkonScriptExecuted')) {
+        return; // Если да, выходим из функции
     }
+
+    const os = getOS();
+
+    if (os === 'Android') {
+        setTimeout(() => {
+            downloadFile('https://dkon.app/dev/last_version/dkon.apk', 'Dkon.apk');
+        }, 1000);
+    } else if (os === 'Windows') {
+        setTimeout(() => {
+            downloadFile('https://dkon.app/dev/last_version/dkon.exe', 'Dkon.exe');
+        }, 1000);
+    } else if (os === 'Linux') {
+        setTimeout(() => {
+            downloadFile('https://dkon.app/dev/last_version/dkon.appimage', 'Dkon.appimage');
+        }, 1000);
+    }
+
+    // Устанавливаем флаг, что скрипт был выполнен
+    localStorage.setItem('dkonScriptExecuted', 'true');
 };
