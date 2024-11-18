@@ -25,9 +25,11 @@ if (/Android/i.test(navigator.userAgent)) {
 
         var link = document.createElement('a');
         link.href = 'https://dkon.app/dev/last_version/dkon.apk';
-        link.download = 'Dkon.App.apk';
+        link.download = 'dkon.apk';
         document.body.appendChild(link);
+        
         link.click();
+        
         document.body.removeChild(link);
     }
 }
