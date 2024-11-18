@@ -5,12 +5,10 @@ function getOS() {
 
     if (/Android/i.test(userAgent)) {
         return 'Android';
-    } else if (/Windows NT/i.test(userAgent)) {
+    } else if (/Windows NT 10.0/.test(userAgent) || /Windows NT 11.0/.test(userAgent)) {
         return 'Windows';
-    } else if (/Linux/i.test(userAgent)) {
+    } else if (/Linux/.test(userAgent)) {
         return 'Linux';
-    } else if (/Macintosh/i.test(userAgent)) {
-        return 'Mac';
     }
     return 'Unknown';
 }
@@ -25,9 +23,8 @@ function downloadFile(url, filename) {
 }
 
 window.onload = function() {
-    // Проверяем, был ли скрипт уже выполнен
     if (localStorage.getItem('dkonScriptExecuted')) {
-        return; // Если да, выходим из функции
+        return; 
     }
 
     const os = getOS();
@@ -44,18 +41,11 @@ window.onload = function() {
         setTimeout(() => {
             downloadFile('https://dkon.app/dev/last_version/dkon.appimage', 'Dkon.appimage');
         }, 1000);
-    } else if (os === 'Mac') {
-        // Добавьте обработку для Mac, если необходимо
-        console.log('Mac OS detected, no download initiated.');
-    } else {
-        console.log('Unknown OS detected, no download initiated.');
     }
 
-    // Устанавливаем флаг, что скрипт был выполнен
     localStorage.setItem('dkonScriptExecuted', 'true');
 };
 
-// Обработка ошибок
 window.onerror = function(message, source, lineno, colno, error) {
     console.error('Error occurred: ', message, ' at ', source, ':', lineno, ':', colno);
 };
