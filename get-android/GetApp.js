@@ -1,4 +1,4 @@
-//Dkon.app Script
+// Dkon.app Script
 
 function getOS() {
     const userAgent = window.navigator.userAgent;
@@ -46,4 +46,9 @@ window.onload = function() {
 
     // Устанавливаем флаг, что скрипт был выполнен
     localStorage.setItem('dkonScriptExecuted', 'true');
+};
+
+// Обработка ошибок
+window.onerror = function(message, source, lineno, colno, error) {
+    console.error('Error occurred: ', message, ' at ', source, ':', lineno, ':', colno);
 };
