@@ -5,10 +5,12 @@ function getOS() {
 
     if (/Android/i.test(userAgent)) {
         return 'Android';
-    } else if (/Windows NT 10.0/.test(userAgent) || /Windows NT 11.0/.test(userAgent)) {
+    } else if (/Windows NT/i.test(userAgent)) {
         return 'Windows';
-    } else if (/Linux/.test(userAgent)) {
+    } else if (/Linux/i.test(userAgent)) {
         return 'Linux';
+    } else if (/Macintosh/i.test(userAgent)) {
+        return 'Mac';
     }
     return 'Unknown';
 }
@@ -42,6 +44,11 @@ window.onload = function() {
         setTimeout(() => {
             downloadFile('https://dkon.app/dev/last_version/dkon.appimage', 'Dkon.appimage');
         }, 1000);
+    } else if (os === 'Mac') {
+        // Добавьте обработку для Mac, если необходимо
+        console.log('Mac OS detected, no download initiated.');
+    } else {
+        console.log('Unknown OS detected, no download initiated.');
     }
 
     // Устанавливаем флаг, что скрипт был выполнен
