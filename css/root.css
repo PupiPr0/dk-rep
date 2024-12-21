@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+:root{
+
+    --icon-tint: invert(16%) sepia(1%) saturate(1%) hue-rotate(22deg) brightness(94%) contrast(91%);
+
+    --main_page_background: #2e9fff;
+
+    --header_height: 39px;
+    --header_background: #4A76A8;
+    --header_border_bottom: 1px solid #4872A3;
+    --header_logo: url(/img/logo.png);
+    --header_logo_height: 28px;
+    --header_logo_width: 90px;
+    --header_burger_background: #ffffff;
+    --header_button_text_color: #ffffff;
+    --header_button_hover_background_color: rgba(98, 153, 224, 0.61);
+    --header_search_box_background: #224b7a;
+
+    --common_body_background: #EDEEF0;
+    --common_page_background: #FFFFFF;
+    --common_page_shadow: 0 2px 2px 0 #DCE1E6, 0 1px 5px 0 #DCE1E6, 0 3px 1px -2px #E7E8EC;
+    --common_page_border_radius: 2px;
+
+    --button_primary_color: #5181b8 !important;
+    --button_primary_hover_color: #5b88bd;
+    --button_primary_text_color: #FFFFFF;
+
+    --button_more_color: #738093;
+
+    --item_link_content: rgba(84, 117, 158, 0.04);
+    --item_footer_link_color: #606770;
+    --item_featured_shadow: 0 2px 0 0 #ce5b3a, 0 0 0 1px #ea7351;
+    --item_repost_background: #f3f1f1;
+
+    --switch_button_off_background_color: #CCC;
+    --switch_button_on_background_color: #4A76A8;
+    --switch_button_disabled_background_color: #a19b9b;
+    --switch_button_slider_background_color: #FFF;
+
+    --separator_common: #DCE1E6;
+    --separator_alternate: #E7E8EC;
+    --separator_item_footer: rgba(0, 0, 0, 0.125);
+
+    --icon_tint: #7D9CB8;
+
+    --side_menu_icon_tint: #99B1C6;
+    --side_menu_icon_tint_hover: #7D9CB8;
+    --side_menu_text_color: #285473;
+    --side_menu_text_color_hover: #254d69;
+    --side_menu_li: transparent;
+    --side_menu_li_hover: #e1e5eb;
+    --side_menu_li_selected: transparent;
+
+    --input_text_backgroud: #FFFFFF;
+    --input_text_color: #5f6979;
+    --input_text_border: 1px solid #edeff1;
+    --input_text_border_focus: 1px solid #edeff1;
+
+    --form_footer_background: #fcfcfc;
+
+    --checkbox_label_background: #fafafa;
+    --checkbox_checked_label_background: rgba(45, 114, 217, 0.1);
+
+    --text_primary: #000000;
+    --text_link: #54759e;
+    --text_title: #000000;
+    --text_sub_title: #626d7a;
+    --text_footer_link: #394e66;
+
+    --header_message_background: #FFFFFF;
+    --header_message_text_color: #000000;
+    --header_message_shadow: var(--common_page_shadow);
+
+    --comment_bubble_background: #F2F2F2;
+
+    --ls_menu_item_color: #2a5885;
+    --ls_menu_selected_item_backround: #f0f2f5;
+    --ls_menu_selected_item_color: #000000;
+    --ls_menu_selected_item_border_left_color: #5181b8;
+
+    --dropdown_menu_background: #FFFFFF;
+    --dropdown_menu_color: var(--text_sub_title);
+    --dropdown_menu_hover_background: #EDEEEF;
+    --dropdown_menu_shadow: rgba(0, 0, 0, .3) 0 1px 2px 0, rgba(0, 0, 0, .15) 0 3px 6px 2px;
+}
