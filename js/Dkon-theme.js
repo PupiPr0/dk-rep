@@ -1,4 +1,4 @@
-var $infobox = $('#info-box');
+//var $infobox = $('#info-box');
 
 $(document).ready(function() {
 
