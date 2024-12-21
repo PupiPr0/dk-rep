@@ -27,27 +27,27 @@ $(document).ready(function() {
 
                 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
 
-                    theme.href = "/css/root-night.css";
+                    theme.href = "https://res.dkon.app/css/root-night.css";
 
                 } else {
 
-                    theme.href = "/css/root.css";
+                    theme.href = "https://res.dkon.app/css/root.css";
                 }
 
                 $.removeCookie('theme-night', { path: '/' });
 
             } else {
 
-                if (theme.getAttribute("href") == "/css/root.css") {
+                if (theme.getAttribute("href") == "https://res.dkon.app/css/root.css") {
 
                     // ... then switch it to night theme
-                    theme.href = "/css/root-night.css";
+                    theme.href = "https://res.dkon.app/css/root-night.css";
                     $.cookie("theme-night", true, { path: '/'});
 
                 } else {
 
                     // ... switch it to default theme
-                    theme.href = "/css/root.css";
+                    theme.href = "https://res.dkon.app/css/root.css";
                     $.cookie("theme-night", false, { path: '/'});
                 }
             }
@@ -58,7 +58,7 @@ $(document).ready(function() {
 
     function updateSwitchButton() {
 
-        if (theme.getAttribute("href") === "/css/root.css") {
+        if (theme.getAttribute("href") === "https://res.dkon.app/css/root.css") {
 
             // ... then switch it to night theme
             $themeSwitchButton.removeAttr('checked');
