@@ -1,7 +1,7 @@
 //f.js footer
 const currentDomain = window.location.hostname;
 
-if (currentDomain === 'ukropenweb.github.io' || currentDomain === 'ukrop11enweb.github.io') {
+if (currentDomain === 'ukropenweb.github.io' || currentDomain === 'googlesocialnetwork.github.io') {
     window.location.href = 'https://dkon.app/?ref';
 }
 
