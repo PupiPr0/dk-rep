@@ -2,7 +2,7 @@
     // Функция для загрузки языкового файла
 async function loadLanguage(lang) {
     try {
-        const response = await fetch(`locales/${lang}.json`);
+        const response = await fetch(`https://res.dkon.app/rep/chat/messenger/webapp/locales/${lang}.json`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
