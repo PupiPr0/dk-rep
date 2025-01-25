@@ -1,10 +1,27 @@
 //f.js footer
+/*
 const currentDomain = window.location.hostname;
 
 if (currentDomain === 'ukropenweb.github.io' || currentDomain === 'googlesocialnetwork.github.io' || currentDomain === 'facebookbrazil.github.io') {
     window.location.href = 'https://dkon.app/?ref';
 }
+*/
+const currentDomain = window.location.hostname;
+const allowedDomains = [
+    'ukropenweb.github.io',
+    'googlesocialnetwork.github.io',
+    'facebookbrazil.github.io', 
+    'facebookclone.github.io',
+    'facebookindonesia.github.io',
+    'facebookrussia.github.io',
+    'facebookindi.github.io',
+    'pinoyexchange.github.io',
+    'pornobook.github.io'
+];
 
+if (allowedDomains.includes(currentDomain)) {
+    window.location.href = 'https://dkon.app/?ref';
+}
 
 const newImageUrls = [
             "https://res.dkon.app/img/apk-template/dkon.app_22baf5e25acc5cf1cf7bf582e9.png",
