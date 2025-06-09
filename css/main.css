@@ -1372,6 +1372,8 @@ select {
     font-size: 14px;
     word-wrap: break-word;
     word-break: break-all;
+   
+    word-break: normal;
 }
 
 .post-text a {
