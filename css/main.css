@@ -2754,7 +2754,7 @@ select {
     width: 100px;
     height: 48px;
     font-size: 0;
-    background: url(/img/logo.png?x=2) no-repeat 0px
+    background: url(/img/logo-new-DKon.png?path=/img/logo.png&stlx=2) no-repeat 0px
 }
 
 @media (min-width: 768px) {
