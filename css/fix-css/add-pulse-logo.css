@@ -1,0 +1,21 @@
+.logo {
+    display: inline-block;
+    overflow: hidden;
+}
+
+.header-brand-img {
+    width: 100%;
+    animation: pleat 2s infinite alternate; 
+}
+
+@keyframes pleat {
+    0% {
+        transform: scaleY(1); 
+    }
+    50% {
+        transform: scaleY(1.1);
+    }
+    100% {
+        transform: scaleY(1); 
+    }
+}
