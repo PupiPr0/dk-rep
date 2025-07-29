@@ -9,8 +9,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 video.pause();
             }
         });
-        video.addEventListener("play", function() {
-            video.load();
-        });
+       
     });
 });
