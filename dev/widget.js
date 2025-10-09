@@ -10,6 +10,8 @@
         iframe.setAttribute('scrolling', 'no');
         iframe.setAttribute('marginheight', '0');
         iframe.setAttribute('marginwidth', '0');
+        iframe.setAttribute('allow', 'fullscreen');    
+        iframe.setAttribute('allowfullscreen', '');
         return iframe;
     }
 
