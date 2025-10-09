@@ -3425,7 +3425,7 @@ typeof navigator === "object" && (function (global, factory) {
     // Sprite (for icons)
     loadSprite: true,
     iconPrefix: 'plyr',
-    iconUrl: 'embed_vidget/video_player/dkon.svg?dkon=svg',
+    iconUrl: 'https://res.dkon.app/embed_vidget/video_player/dkon.svg',
     // Blank video (used to prevent errors on source change)
     blankVideo: '',
     // Quality default
