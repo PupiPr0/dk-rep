@@ -3489,7 +3489,7 @@ typeof navigator === "object" && (function (global, factory) {
     'play',
     // 'fast-forward',
     'progress', 'current-time',
-     'duration', //dkon-change
+    // 'duration', //dkon-change
     'mute', 'volume', 'captions', 'settings', 'pip', 
     //'airplay',
     // 'download',
