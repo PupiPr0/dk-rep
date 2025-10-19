@@ -1,6 +1,7 @@
 (async function() {
   const defaultLocale = 'en';
-  const supported = ['en','ru','pl','tl','id'];
+ // const supported = ['en','ru','pl','tl','id'];
+  const supported = ['en','ru','pl','tl','id','hi','fa','ar']; 
   const rawLang = navigator.language || navigator.userLanguage || defaultLocale;
   const lang = rawLang.split('-')[0];
 
