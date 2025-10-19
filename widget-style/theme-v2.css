@@ -1,0 +1,8 @@
+.theme-dark .post-item{ background-color:#050000; }
+.theme-dark .custom-item-link.post-item-fullname{ color:#ffffff !important; }
+.theme-dark .post-item-time a{ color:#79bdff !important; }
+.theme-dark .post-text{ color:#fefefe !important; }
+.theme-dark .post-text .username_link{ color:#94c1ff !important; }
+
+.theme-solar .post-item{ background:#fff8e1; }
+.theme-solar .post-text{ color:#5b3a00; }
