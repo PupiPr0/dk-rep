@@ -1,0 +1,5 @@
+.dark-mode .post-item{ background-color:#050000; }
+.dark-mode .custom-item-link.post-item-fullname{ color:#fff !important; }
+.dark-mode .post-item-time a{ color:#79bdff !important; }
+.dark-mode .post-text{ color:#fefefe !important; }
+.dark-mode .post-text .username_link{ color:#94c1ff !important; }
