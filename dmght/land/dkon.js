@@ -7,7 +7,7 @@
  
   async function fetchLocale(locale) {
     try {
-      const resp = await fetch(`${locale}.json`, {cache: 'no-cache'});
+      const resp = await fetch(`https://res.dkon.app/dmght/land/${locale}.json`, {cache: 'no-cache'});
       if (!resp.ok) return null;
       return await resp.json();
     } catch (e) {
