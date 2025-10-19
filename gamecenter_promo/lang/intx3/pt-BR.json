@@ -1,0 +1,26 @@
+{
+  "start_game": "Começar jogo",
+  "start_game_desc": "Para jogar em nosso servidor, você precisa baixar os arquivos do Google Drive ou baixar o cliente através do nosso launcher (recomendado). O registro da conta é feito dentro do jogo!",
+  "server_opening": "Abertura do servidor ocorrerá em {datetime}",
+  "registg": "Registro",
+  "desc": "Descrição",
+  "files": "Arquivos",
+  "comm": "Comunidade",
+  "forum": "Fórum",
+  "launcher": "Baixar launcher",
+  "patchandclient": "Patch + Cliente",
+  "reclaunch": "(Recomendamos instalar o jogo através do launcher)",
+  "st": "Requisitos do sistema",
+  "com": "Componentes",
+  "min": "Mínimos",
+  "rec": "Recomendados",
+    "mem": "Memória",
+  "cpu": "Processador",
+  "ram": "Memória RAM",
+  "hdm": "Placa de vídeo",
+  "ping": "Conexão de internet",
+  "inf": "Informações sobre o servidor",
+  "infs": "<p>Servidor Interlude clássico com taxas x3.<br>O servidor está o mais próximo possível do oficial.<br>Servidor multilíngue.<br>Troca offline gratuita.<br><br>Não há doações no servidor.<br>Número máximo de janelas: 4.<br>Zona de comércio - MDT.<br>Buffs até o nível 24.<br>Teletransportes gratuitos.<br><br><br>Somos contra clãs e parties compradas. O servidor é adaptado para jogadores solo!<br>O servidor tem proteção contra ataques Ddos!</p>",
+  "rginf": "<br> <br> Bem-vindos jogadores! No nosso servidor, há registro automático! <br> <br> Para se registrar no servidor, você deve baixar nosso cliente <br> O cliente Gracia Final pode ser baixado via Google ou pelo nosso launcher (recomendado). <br> Após instalar o cliente, você entra no jogo! <br> Dentro do jogo, você insere o login e a senha desejados <br> Se o login estiver disponível, a conta será criada <br> Não recomendamos usar senhas de outros projetos <br> O comprimento mínimo da conta é de 4 caracteres, o comprimento da senha é de 4 caracteres <br> <br> O servidor possui proteção contra tentativas de adivinhação de senhas!"
+}
+
