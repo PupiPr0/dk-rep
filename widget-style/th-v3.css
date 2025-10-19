@@ -1,0 +1,34 @@
+/* dark */
+.theme-dark .post-item{ background-color:#050000; }
+.theme-dark .custom-item-link.post-item-fullname{ color:#ffffff !important; }
+.theme-dark .post-item-time a{ color:#79bdff !important; }
+.theme-dark .post-text{ color:#fefefe !important; }
+.theme-dark .post-text .username_link{ color:#94c1ff !important; }
+
+/* solar  */
+.theme-solar .post-item{ background:#fff8e1; }
+.theme-solar .custom-item-link.post-item-fullname{ color:#6b3e00 !important; }
+.theme-solar .post-item-time a{ color:#ffb74d !important; }
+.theme-solar .post-text{ color:#5b3a00 !important; }
+.theme-solar .post-text .username_link{ color:#7c4a02 !important; }
+
+/* sepia */
+.theme-sepia .post-item{ background:#f4ecd8; }
+.theme-sepia .custom-item-link.post-item-fullname{ color:#5b3a29 !important; }
+.theme-sepia .post-item-time a{ color:#b85c00 !important; }
+.theme-sepia .post-text{ color:#4a3426 !important; }
+.theme-sepia .post-text .username_link{ color:#7b4f3a !important; }
+
+/* midnight  */
+.theme-midnight .post-item{ background:#001025; }
+.theme-midnight .custom-item-link.post-item-fullname{ color:#dbeeff !important; }
+.theme-midnight .post-item-time a{ color:#66b2ff !important; }
+.theme-midnight .post-text{ color:#e6f3ff !important; }
+.theme-midnight .post-text .username_link{ color:#9fd0ff !important; }
+
+/* pink */
+.theme-pink .post-item{ background:#2b001b; }
+.theme-pink .custom-item-link.post-item-fullname{ color:#ffd6f0 !important; }
+.theme-pink .post-item-time a{ color:#ff99cc !important; }
+.theme-pink .post-text{ color:#ffeef9 !important; }
+.theme-pink .post-text .username_link{ color:#ffb3e6 !important; }
