@@ -1,5 +1,5 @@
 (function(){
-  const ALLOWED = new Set(['dark','solar','sepia','midnight','pink','grey','green','newyear','halloween','summer','marine','winter','christmas','indonesia','china','philippines','africa','japan','india','greece','dota2','csgo','lol','ff','genshin','monsterhunter','80s','90s','vintage','pixel']);
+  const ALLOWED = new Set(['dark','solar','sepia','midnight','pink','grey','green','newyear','halloween','summer','marine','winter','christmas','indonesia','china','philippines','africa','japan','india','greece','dota2','csgo','lol','ff','genshin','monsterhunter','80s','90s','vintage','pixel','stars']);
 
   function getColorParam(){
     const params = new URLSearchParams(location.search);
