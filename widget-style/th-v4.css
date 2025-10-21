@@ -219,6 +219,7 @@
 .theme-stars .post-item {
     background: transparent; 
     position: relative; 
+    background: url('https://res.dkon.app/widget-style/stars.png') no-repeat center center; 
 }
 .theme-stars .post-item:before {
     content: '';
@@ -227,7 +228,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('https://res.dkon.app/widget-style/stars.png') no-repeat center center; 
+   
     background-size: cover; 
     opacity: 0.6; 
     z-index: -1; 
@@ -237,3 +238,30 @@
 .theme-stars .post-text { color: #E0E0E0 !important; } 
 .theme-stars .post-text .username_link { color: #00CED1 !important; } 
 
+
+
+/* stars2 */
+.theme-stars2 .post-item {
+   background-color: #000000; 
+    background-image: url('https://res.dkon.app/widget-style/stars.png'); 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    background-size: cover; 
+}
+.theme-stars2 .post-item:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+     background-color: #752a0d; 
+    bottom: 0;
+   
+    background-size: cover; 
+    opacity: 0.6; 
+    z-index: -1; 
+}
+.theme-stars2 .custom-item-link.post-item-fullname { color: #ffd700 !important; } 
+.theme-stars2 .post-item-time a { color: #f0ef0a !important; } 
+.theme-stars2 .post-text { color: #cf1a1a !important; } 
+.theme-stars2 .post-text .username_link { color: #00CED1 !important; } 
