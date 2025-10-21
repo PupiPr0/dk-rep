@@ -116,3 +116,101 @@
 .theme-philippines .post-item-time a { color: #4caf50 !important; }
 .theme-philippines .post-text { color: #000000 !important; }
 .theme-philippines .post-text .username_link { color: #cddc39 !important; }
+
+/* africa */
+.theme-africa .post-item { background: #e0f7fa; }
+.theme-africa .custom-item-link.post-item-fullname { color: #8d6e63 !important; }
+.theme-africa .post-item-time a { color: #ff7043 !important; }
+.theme-africa .post-text { color: #6d4c41 !important; }
+.theme-africa .post-text .username_link { color: #3e2723 !important; }
+
+/* japan */
+.theme-japan .post-item { background: #f9fbe7; }
+.theme-japan .custom-item-link.post-item-fullname { color: #c2185b !important; }
+.theme-japan .post-item-time a { color: #81c784 !important; }
+.theme-japan .post-text { color: #4a148c !important; }
+.theme-japan .post-text .username_link { color: #90a4ae !important; }
+
+/* india */
+.theme-india .post-item { background: #f1f8e9; }
+.theme-india .custom-item-link.post-item-fullname { color: #d32f2f !important; }
+.theme-india .post-item-time a { color: #ffd54f !important; }
+.theme-india .post-text { color: #5d4037 !important; }
+.theme-india .post-text .username_link { color: #7e57c2 !important; }
+
+/* greece */
+.theme-greece .post-item { background: #e1f5fe; }
+.theme-greece .custom-item-link.post-item-fullname { color: #1565c0 !important; }
+.theme-greece .post-item-time a { color: #ffab40 !important; }
+.theme-greece .post-text { color: #263238 !important; }
+.theme-greece .post-text .username_link { color: #4caf50 !important; }
+
+/* dota2 */
+.theme-dota2 .post-item { background: #1E1E1E; }
+.theme-dota2 .custom-item-link.post-item-fullname { color: #FFB300 !important; }
+.theme-dota2 .post-item-time a { color: #00BFFF !important; }
+.theme-dota2 .post-text { color: #A8A8A8 !important; }
+.theme-dota2 .post-text .username_link { color: #FFD700 !important; }
+
+/* csgo */
+.theme-csgo .post-item { background: #343A40; }
+.theme-csgo .custom-item-link.post-item-fullname { color: #DC3545 !important; }
+.theme-csgo .post-item-time a { color: #28A745 !important; }
+.theme-csgo .post-text { color: #CED4DA !important; }
+.theme-csgo .post-text .username_link { color: #17A2B8 !important; }
+
+/* lol */
+.theme-lol .post-item { background: #2c3e50; }
+.theme-lol .custom-item-link.post-item-fullname { color: #F39C12 !important; }
+.theme-lol .post-item-time a { color: #1ABC9C !important; }
+.theme-lol .post-text { color: #ECF0F1 !important; }
+.theme-lol .post-text .username_link { color: #E74C3C !important; }
+
+/* ff */
+.theme-ff .post-item { background: #e8f6f3; }
+.theme-ff .custom-item-link.post-item-fullname { color: #6d4c41 !important; }
+.theme-ff .post-item-time a { color: #f06292 !important; }
+.theme-ff .post-text { color: #37474f !important; }
+.theme-ff .post-text .username_link { color: #42a5f5 !important; }
+
+/* genshin */
+.theme-genshin .post-item { background: #f0f9ff; }
+.theme-genshin .custom-item-link.post-item-fullname { color: #ffbb33 !important; }
+.theme-genshin .post-item-time a { color: #61c0bf !important; }
+.theme-genshin .post-text { color: #2c3e50 !important; }
+.theme-genshin .post-text .username_link { color: #e74c3c !important; }
+
+/* monsterhunter */
+.theme-monsterhunter .post-item { background: #c8e6c9; }
+.theme-monsterhunter .custom-item-link.post-item-fullname { color: #795548 !important; }
+.theme-monsterhunter .post-item-time a { color: #ff5722 !important; }
+.theme-monsterhunter .post-text { color: #424242 !important; }
+.theme-monsterhunter .post-text .username_link { color: #fbc02d !important; }
+
+/* 1980 */
+.theme-80s .post-item { background: #111; }
+.theme-80s .custom-item-link.post-item-fullname { color: #FF0080 !important; }
+.theme-80s .post-item-time a { color: #00FFFC !important; }
+.theme-80s .post-text { color: #F3FF00 !important; }
+.theme-80s .post-text .username_link { color: #FF7F50 !important; }
+
+/* 1990 */
+.theme-90s .post-item { background: #FFF3E0; }
+.theme-90s .custom-item-link.post-item-fullname { color: #FF9F00 !important; }
+.theme-90s .post-item-time a { color: #B2FF59 !important; }
+.theme-90s .post-text { color: #33691E !important; }
+.theme-90s .post-text .username_link { color: #FF4081 !important; }
+
+/* vintage */
+.theme-vintage .post-item { background: #D7CCC8; }
+.theme-vintage .custom-item-link.post-item-fullname { color: #5D4037 !important; }
+.theme-vintage .post-item-time a { color: #FFAB91 !important; }
+.theme-vintage .post-text { color: #3E2723 !important; }
+.theme-vintage .post-text .username_link { color: #FF5722 !important; }
+
+/* pixel */
+.theme-pixel .post-item { background: #000; }
+.theme-pixel .custom-item-link.post-item-fullname { color: #00FF00 !important; }
+.theme-pixel .post-item-time a { color: #FFFF00 !important; }
+.theme-pixel .post-text { color: #FFFFFF !important; }
+.theme-pixel .post-text .username_link { color: #FF00FF !important; }
