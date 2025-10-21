@@ -74,3 +74,45 @@
 .theme-marine .post-item-time a{ color:#1982c4 !important; }
 .theme-marine .post-text{ color:#052934 !important; }
 .theme-marine .post-text .username_link{ color:#0b7896 !important; }
+
+/* atum */
+.theme-autumn .post-item { background: linear-gradient(180deg, #ffedb2 0%, #d09b3e 100%); }
+.theme-autumn .custom-item-link.post-item-fullname { color: #8c5b2b !important; }
+.theme-autumn .post-item-time a { color: #ff7f50 !important; }
+.theme-autumn .post-text { color: #4e3f31 !important; }
+.theme-autumn .post-text .username_link { color: #c15a2e !important; }
+
+/* winter */
+.theme-winter .post-item { background: #e0f7fa; }
+.theme-winter .custom-item-link.post-item-fullname { color: #0d47a1 !important; }
+.theme-winter .post-item-time a { color: #82b1ff !important; }
+.theme-winter .post-text { color: #1976d2 !important; }
+.theme-winter .post-text .username_link { color: #448aff !important; }
+
+/* christmas */
+.theme-christmas .post-item { background: #f2f2f2; }
+.theme-christmas .custom-item-link.post-item-fullname { color: #b71c1c !important; }
+.theme-christmas .post-item-time a { color: #7b1fa2 !important; }
+.theme-christmas .post-text { color: #3e2723 !important; }
+.theme-christmas .post-text .username_link { color: #a21815 !important; }
+
+/* indonesia */
+.theme-indonesia .post-item { background: #e3f2fd; }
+.theme-indonesia .custom-item-link.post-item-fullname { color: #c2185b !important; }
+.theme-indonesia .post-item-time a { color: #ffc107 !important; }
+.theme-indonesia .post-text { color: #4a148c !important; }
+.theme-indonesia .post-text .username_link { color: #880e4f !important; }
+
+/* china */
+.theme-china .post-item { background: #fae5d3; }
+.theme-china .custom-item-link.post-item-fullname { color: #b71c1c !important; }
+.theme-china .post-item-time a { color: #ff9800 !important; }
+.theme-china .post-text { color: #212121 !important; }
+.theme-china .post-text .username_link { color: #f44336 !important; }
+
+/* philippines */
+.theme-philippines .post-item { background: #ffeb3b; }
+.theme-philippines .custom-item-link.post-item-fullname { color: #1976d2 !important; }
+.theme-philippines .post-item-time a { color: #4caf50 !important; }
+.theme-philippines .post-text { color: #000000 !important; }
+.theme-philippines .post-text .username_link { color: #cddc39 !important; }
