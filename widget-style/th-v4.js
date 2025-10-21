@@ -1,5 +1,5 @@
 (function(){
-  const ALLOWED = new Set(['dark','solar','sepia','midnight','pink','grey','green','new-year','halloween','summer','marine']);
+  const ALLOWED = new Set(['dark','solar','sepia','midnight','pink','grey','green','newyear','halloween','summer','marine']);
 
   function getColorParam(){
     const params = new URLSearchParams(location.search);
