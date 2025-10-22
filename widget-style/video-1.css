@@ -1,0 +1,43 @@
+ .post-text.m-2 {
+    display: none;
+}
+
+        .plyr__progress__buffer {
+    display: none; 
+}
+
+        
+.plyr__progress {
+    height: 8px; 
+   
+}
+
+.plyr__progress__played, .plyr__progress__buffer {
+    height: 100%; 
+    border-radius: 4px; 
+}
+
+.plyr__progress__played {
+    background-color: #007bff; 
+}
+
+.plyr__progress__buffer {
+    background-color: rgba(0, 123, 255, 0.5);
+}
+
+.plyr__controls {
+    background-color: rgba(0, 0, 0, 0.7); 
+    border-radius: 8px;
+}
+
+.plyr__control {
+    color: #fff; 
+}
+
+.plyr__control:hover {
+    opacity: 0.8; 
+}
+
+video {
+    border-radius: 8px; 
+}
