@@ -1,0 +1,5 @@
+ /* Mengoreksi gaya profil yang diverifikasi dalam komentar. */
+.user-verified-badge-dkoncomm .iconfont.icofont-check-alt {
+    color: #4a76a8;            
+    font-size: 16px;           
+}
