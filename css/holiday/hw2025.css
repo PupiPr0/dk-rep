@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'DkonHW';  
+    src: url('https://res.dkon.app/css/holiday/dkonhw.ttf') format('truetype');
+}
+.media-content {
+    font-family: 'DkonHW', sans-serif; 
+}
+.post-text {
+    font-family: 'DkonHW', sans-serif; 
+}
