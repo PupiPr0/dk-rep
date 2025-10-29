@@ -1,0 +1,22 @@
+/* Pembaruan tanggal 29.10.2025
+CSS pemblokiran untuk pendaftaran, login, dan rekomendasi */
+.main-menu {
+    position: fixed;
+    width: 180px;
+}
+
+/* 
+.card.preview-block {
+    position: fixed;
+    width: 230px;  
+}
+*/
+
+/* 
+.card .ls-menu {
+    position: fixed;
+    width: 185px;  
+    background: #fff;
+    border-radius: 3px
+}
+*/
