@@ -15,13 +15,16 @@
         if (id) {
             iframe.id = id;  
         }
+
+        iframe.onload = () => console.log(`Iframe loaded successfully: ${id}`);
+        iframe.onerror = () => console.error(`Error loading iframe: ${id}`);
+
         return iframe;
     }
 
     function appendColorParam(url, color) {
-        if (color === null) return url;          
-        if (color === '') return url;            
-        return url + (url.indexOf('?') === -1 ? '?' : '&') + 'color=' + encodeURIComponent(color);
+        if (!color) return url;
+        return `${url}${url.indexOf('?') === -1 ? '?' : '&'}color=${encodeURIComponent(color)}`;
     }
 
     const widgetName = script.getAttribute('dkon-widget');
@@ -35,10 +38,8 @@
     if (postData) {
         const width = script.getAttribute('data-width') || '100%';
         const height = script.getAttribute('data-height') || '500px';
-        const colorAttr = script.getAttribute('data-dkon-color'); 
-        const parts = postData.split('/');
-        const name = parts[0] || '';
-        const id = parts[1] || '';
+        const colorAttr = script.getAttribute('data-dkon-color');
+        const [name = '', id = ''] = postData.split('/');
 
         const widgetContainer = document.createElement('div');
         widgetContainer.style.width = width;
@@ -48,11 +49,9 @@
         let src = `https://dkon.app/${encodeURIComponent(name)}/post/${encodeURIComponent(id)}/embed_widget`;
         src = appendColorParam(src, colorAttr);
 
-        const DKonDate = Math.floor(Date.now() / 1000); 
-        const uniqueId = `DKon.app-${name}-${id}-${DKonDate}`; 
+        const uniqueId = `DKon.app-${name}-${id}-${Math.floor(Date.now() / 1000)}`;
         const iframe = createIframe(src, '100%', '100%', 'none', uniqueId);
         widgetContainer.appendChild(iframe);
-
         script.parentNode.insertBefore(widgetContainer, script);
     }
 })();
