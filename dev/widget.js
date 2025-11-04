@@ -1,7 +1,7 @@
 (function() {
     const script = document.currentScript;
 
-    function createIframe(src, width, height, border) {
+    function createIframe(src, width, height, border, id) {
         const iframe = document.createElement('iframe');
         iframe.src = src;
         iframe.style.width = width;
@@ -12,6 +12,9 @@
         iframe.setAttribute('marginwidth', '0');
         iframe.setAttribute('allow', 'fullscreen');
         iframe.setAttribute('allowfullscreen', '');
+        if (id) {
+            iframe.id = id;  
+        }
         return iframe;
     }
 
@@ -32,7 +35,7 @@
     if (postData) {
         const width = script.getAttribute('data-width') || '100%';
         const height = script.getAttribute('data-height') || '500px';
-        const colorAttr = script.getAttribute('data-dkon-color'); // null | '' | value
+        const colorAttr = script.getAttribute('data-dkon-color'); 
         const parts = postData.split('/');
         const name = parts[0] || '';
         const id = parts[1] || '';
@@ -45,7 +48,8 @@
         let src = `https://dkon.app/${encodeURIComponent(name)}/post/${encodeURIComponent(id)}/embed_widget`;
         src = appendColorParam(src, colorAttr);
 
-        const iframe = createIframe(src, '100%', '100%', 'none');
+        const uniqueId = `iframe-${name}-${id}`; 
+        const iframe = createIframe(src, '100%', '100%', 'none', uniqueId);
         widgetContainer.appendChild(iframe);
 
         script.parentNode.insertBefore(widgetContainer, script);
