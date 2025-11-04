@@ -48,7 +48,8 @@
         let src = `https://dkon.app/${encodeURIComponent(name)}/post/${encodeURIComponent(id)}/embed_widget`;
         src = appendColorParam(src, colorAttr);
 
-        const uniqueId = `iframe-${name}-${id}`; 
+        const DKonDate = Math.floor(Date.now() / 1000); 
+        const uniqueId = `DKon.app-${name}-${id}-${DKonDate}`; 
         const iframe = createIframe(src, '100%', '100%', 'none', uniqueId);
         widgetContainer.appendChild(iframe);
 
