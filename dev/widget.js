@@ -16,8 +16,8 @@
             iframe.id = id;  
         }
 
-        iframe.onload = () => console.log(`Iframe loaded successfully: ${id}`);
-        iframe.onerror = () => console.error(`Error loading iframe: ${id}`);
+        iframe.onload = () => console.log(`DKon.app Widget loaded successfully: ${id}`);
+        iframe.onerror = () => console.error(`Error loading DKon.app Widget: ${id}`);
 
         return iframe;
     }
