@@ -1,0 +1,63 @@
+ /* Perbaikan dari 6 November 2025 yang memperbaiki tampilan panggilan suara di versi web */
+
+#DKonPhoneInput {
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    overflow: hidden; 
+}
+
+#status {
+    width: 0;
+    height: 0;
+    visibility: hidden; 
+    overflow: hidden; 
+}
+
+#btnConnect {
+    width: 0;
+    height: 0;
+    visibility: hidden; 
+    overflow: hidden; 
+}
+
+
+#incoming {
+    float: right;              
+    margin-right: 10px;   
+    
+}
+
+#btnCall {
+    float: right;             
+     margin-right: 10px; 
+    height: 32px;
+    width: 50px; 
+    background: rgba(71, 184, 31, 0.45) ;
+}
+
+.accept-button {
+    background-color: green;
+    color: white;           
+    border: none;          
+    padding: 10px 15px;     
+    border-radius: 5px;    
+    cursor: pointer;        
+}
+
+.reject-button {
+    background-color: red;   
+    color: white;           
+    border: none;          
+    padding: 10px 15px;    
+    border-radius: 5px;    
+    cursor: pointer;        
+}
+
+.accept-button:hover {
+    background-color: darkgreen; 
+}
+
+.reject-button:hover {
+    background-color: darkred;   
+}
