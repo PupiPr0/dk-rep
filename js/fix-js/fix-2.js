@@ -5,7 +5,7 @@ function makeLinksClickable() {
             mediaContent.forEach(element => {
                 const html = element.innerHTML;
                 const regex = /https?:\/\/[^\s]+/g; 
-                const newHtml = html.replace(regex, (url) => `<a href="${url}" target="_blank" rel="nofollow">${url}</a>`);
+                const newHtml = html.replace(regex, (url) => `<a href="https://dkon.app/go/?to=${url}" target="_blank" rel="nofollow">${url}</a>`);
                 element.innerHTML = newHtml;
             });
         }
