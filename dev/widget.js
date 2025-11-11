@@ -55,8 +55,9 @@
         let src = `https://dkon.app/${encodeURIComponent(name)}/post/${encodeURIComponent(id)}/embed_widget`;
         src = appendColorParam(src, colorAttr);
         src = appendVideoParam(src, videoAttr);
-
-        const uniqueId = `DKon.app-${name}-${id}-${Math.floor(Date.now() / 1000)}`;
+        
+       //const uniqueId = `DKon.app-${name}-${id}-${Math.floor(Date.now() / 1000)}`; 
+        const uniqueId = `DKon.app-${name}-${id}`;
         const iframe = createIframe(src, '100%', '100%', 'none', uniqueId);
         widgetContainer.appendChild(iframe);
         script.parentNode.insertBefore(widgetContainer, script);
