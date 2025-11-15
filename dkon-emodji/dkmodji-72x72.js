@@ -170,7 +170,7 @@ var dkmoji = function() {
             attributes: typeof how.attributes === "function" ? how.attributes : returnNull,
             base: typeof how.base === "string" ? how.base : dkmoji.base,
             ext: how.ext || dkmoji.ext,
-            dkpath: how.folder || toSizeSquaredAsset(how.size || dkmoji.size),
+            dkpath: how.folder || toSizeSquaredAsset(how.dkpath || dkmoji.dkpath),
             className: how.className || dkmoji.className,
             onerror: how.onerror || dkmoji.onerror
         })
