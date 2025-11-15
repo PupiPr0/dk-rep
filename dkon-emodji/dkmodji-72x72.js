@@ -5,7 +5,7 @@ var dkmoji = function() {
             base: "https://res.dkon.app/dkon-emodji/",
             ext: ".png",
             size: "72x72",
-            path: "dkon-png",
+            dkpath: "dkon-png",
             className: "emoji",
             convert: {
                 fromCodePoint: fromCodePoint,
@@ -41,7 +41,7 @@ var dkmoji = function() {
         return s.replace(rescaper, replacer)
     }
     function defaultImageSrcGenerator(icon, options) {
-        return "".concat(options.base, options.path, "/", icon, options.ext)
+        return "".concat(options.base, options.dkpath, "/", icon, options.ext)
     }
     function grabAllTextNodes(node, allText) {
         var childNodes = node.childNodes,
@@ -170,7 +170,7 @@ var dkmoji = function() {
             attributes: typeof how.attributes === "function" ? how.attributes : returnNull,
             base: typeof how.base === "string" ? how.base : dkmoji.base,
             ext: how.ext || dkmoji.ext,
-            size: how.folder || toSizeSquaredAsset(how.size || dkmoji.size),
+            dkpath: how.folder || toSizeSquaredAsset(how.size || dkmoji.size),
             className: how.className || dkmoji.className,
             onerror: how.onerror || dkmoji.onerror
         })
