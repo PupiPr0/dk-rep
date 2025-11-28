@@ -1,0 +1,10 @@
+{
+  "titleLocation": "Bạn đang ở:",
+  "country": "Quốc gia:",
+  "realIp": "IP thực:",
+  "proxyIp": "IP proxy:",
+  "localTime": "Giờ địa phương:",
+  "refresh": "Làm mới",
+  "loading": "Đang tải...",
+  "error": "Lỗi"
+}
