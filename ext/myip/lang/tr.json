@@ -1,0 +1,10 @@
+{
+  "titleLocation": "Şu anda bulunduğunuz yer:",
+  "country": "Ülke:",
+  "realIp": "Gerçek IP:",
+  "proxyIp": "Proxy IP:",
+  "localTime": "Yerel saat:",
+  "refresh": "Yenile",
+  "loading": "Yükleniyor...",
+  "error": "Hata"
+}
