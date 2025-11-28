@@ -1,5 +1,6 @@
-(function() {
-  window.DKON_LANGS = {
+// https://res.dkon.app/ext/myip/lang/lang.js
+(() => {
+  const LANGS = {
     en: "English",
     ru: "Русский",
     id: "Bahasa Indonesia",
@@ -9,11 +10,13 @@
     fr: "Français",
     tr: "Türkçe",
     vi: "Tiếng Việt",
-    pl: "Polski"
+    pl: "Polski",
+    // добавляй сколько хочешь
   };
 
-  const browserLang = (navigator.language || navigator.userLanguage || 'en')
-    .toLowerCase().split('-')[0];
+  // В service worker navigator нет → берём из chrome.i18n (это единственный надёжный способ!)
+  const browserLang = (chrome.i18n.getUILanguage() || 'en').toLowerCase().split('-')[0];
 
-  window.DKON_CURRENT_LANG = window.DKON_LANGS[browserLang] ? browserLang : 'en';
+  window.DKON_CURRENT_LANG = LANGS[browserLang] ? browserLang : 'en';
+  window.DKON_LANGS = LANGS; // на всякий случай
 })();
