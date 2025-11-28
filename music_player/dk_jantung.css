@@ -1,0 +1,13 @@
+#playlist .track-item {
+        padding: 14px 20px;
+        border-bottom: 1px solid #eee;
+        cursor: pointer;
+        transition: all 0.2s;
+        display: flex;
+        align-items: center;
+    }
+    #playlist .track-item:hover { background: #f5f7ff; }
+    #playlist .track-item.playing { background: #e3ebff; font-weight: 600; }
+    #playlist .track-item img { width: 48px; height: 48px; border-radius: 8px; object-fit: cover; margin-right: 14px; flex-shrink: 0; }
+    #playlist .track-title { font-weight: 600; font-size: 1rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    #playlist .track-artist { color: #666; font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
