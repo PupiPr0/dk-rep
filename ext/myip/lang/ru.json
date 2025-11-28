@@ -1,0 +1,11 @@
+{
+  "titleLocation": "Вы находитесь в:",
+  "country": "Страна:",
+  "realIp": "Реальный IP:",
+  "proxyIp": "Прокси IP:",
+  "localTime": "Местное время:",
+  "refresh": "Обновить",
+  "loading": "Загрузка...",
+  "error": "Ошибка загрузки",
+  "extName": "Мой IP • DKON"
+}
