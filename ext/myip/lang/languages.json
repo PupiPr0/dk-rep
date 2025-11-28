@@ -1,0 +1,4 @@
+{
+  "available": ["en", "ru", "id", "es", "de", "fr", "pt", "tr", "vi", "pl"],
+  "default": "en"
+}
