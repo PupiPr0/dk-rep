@@ -1,0 +1,10 @@
+{
+  "titleLocation": "Du befindest dich in:",
+  "country": "Land:",
+  "realIp": "Echte IP:",
+  "proxyIp": "Proxy-IP:",
+  "localTime": "Ortszeit:",
+  "refresh": "Aktualisieren",
+  "loading": "Lade...",
+  "error": "Fehler"
+}
