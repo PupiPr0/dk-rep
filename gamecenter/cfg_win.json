@@ -1,0 +1,31 @@
+{
+  "launcher_version": "2.1.0",
+  "background": "https://yousite.com/launcher/bg.jpg",
+  "logo": "https://res.dkon.app/app-content/new_title_logo_09_07_2025.png",
+  "discord": "https://discord.gg/abc123",
+  "website": "https://dkon.app",
+  "news_url": "https://yousite.com/launcher/news.json",
+  "update_check": "https://yousite.com/launcher/version.txt",
+  "games": [
+    {
+      "id": "interlude",
+      "name": "Interlude x100",
+      "icon": "https://yousite.com/launcher/icons/interlude.png",
+      "description": "Классика навсегда",
+      "default_path": "C:\\L2Wild_Interlude",
+      "launch_exe": "L2.exe",
+      "patchlist_url": "http://proxyserverupd.fastmsg.ru/updt/int/patchlist.xml",
+      "online_url": "https://yousite.com/api/online/interlude"
+    },
+    {
+      "id": "essence",
+      "name": "Essence x1",
+      "icon": "https://yousite.com/launcher/icons/essence.png",
+      "description": "Новый мир 2025",
+      "default_path": "C:\\L2Wild_Essence",
+      "launch_exe": "Lineage2M.exe",
+      "updater_type": "classic",          
+      "direct_download": "https://yousite.com/clients/essence_full.zip"
+    }
+  ]
+}
