@@ -2,7 +2,7 @@
 
 (function () {
   // Показываем только один раз
-  if (localStorage.getItem('promoPopupShown')) {
+  if (localStorage.getItem('promoPopupShown1')) {
     return;
   }
 
