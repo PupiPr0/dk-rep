@@ -207,7 +207,7 @@
           ${t.telegram}
         </a>
         
-        <a href="https://discord.gg/yTRnSvCpCv" 
+        <a href="https://discord.gg/UEDzhkxa7z" 
            target="_blank" 
            class="promo-btn discord">
           ${t.discord}
