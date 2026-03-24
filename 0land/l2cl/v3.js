@@ -201,13 +201,13 @@
       <p>${t.text}</p>
       
       <div class="promo-buttons">
-        <a href="https://t.me/+WLgr7rOHBNtiZmYx" 
+        <a href="https://t.me/+jxRLh3at9XIwYjgx" 
            target="_blank" 
            class="promo-btn">
           ${t.telegram}
         </a>
         
-        <a href="https://discord.gg/UEDzhkxa7z" 
+        <a href="https://discord.gg/TqaWFDKDZ9" 
            target="_blank" 
            class="promo-btn discord">
           ${t.discord}
